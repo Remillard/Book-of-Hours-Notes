@@ -46,7 +46,7 @@ Elements of the Soul may be upgraded at crafting tables that matches the skill,
 using a skill that matches the crafting table and has been attuned to them on
 the Tree of Wisdom, and using two elements of the same strength.
 
-See [[*Element of Soul Card Table]] in the appendix for details.
+See the [[*Element of Soul Card Table][Element of Soul Card Table]] in the appendix for details.
 
 ** Memories
 
@@ -74,9 +74,9 @@ considering a book with not enough element to initially surpass the challenge.
 In particular, weather is a known memory type that may be requested
 specifically.
 
-See [[*Memory Table]] for details on the traits of known memories.
+See the [[*Memory Table][Memory Table]] for details on the traits of known memories.
 
-See [[*Weather Table]] for details on the traits of weather memories.
+See the [[*Weather Table][Weather Table]] for details on the traits of weather memories.
 
 *** Lessons
 
@@ -90,9 +90,9 @@ Lessons are *only* generated the first time a book is mastered.  A lesson may be
 considered to become a skill.  They may also used in upgrading skills and
 evolving Elements.
 
-See [[*Book Table]] for a listing of which lessons and other memories are obtained
-from which books.  This may be cross-referenced with the [[*Memory Table]] for
-properties of specific memories.
+See the [[*Book Table][Book Table]] for a listing of which lessons and other memories are
+obtained from which books.  This may be cross-referenced with the [[*Memory Table][Memory Table]]
+for properties of specific memories.
 
 *** Seasons and Weather
 
@@ -121,7 +121,7 @@ Beware!  At the end of /Numa/, all memories will be discarded, *including
 persistent memories* like lessons and omens.  This effectively resets the memory
 space and prevents lesson hoarding.
 
-See [[*Weather Table]] for information on which seasons may produce which weather
+See the [[*Weather Table][Weather Table]] for information on which seasons may produce which weather
 memories.
 
 **** Weather
@@ -133,8 +133,8 @@ a variety of uses.  Which weather event is generated is random and season
 dependent (more sunny days in summer, less in winter, etc.)
 
 A weather card may be requested specifically when considering a book and failing
-the element challenge and cycling through the bonus rounds.  (See [[*Books]] for
-more details.)
+the element challenge and cycling through the bonus rounds.  (See section [[*Books][Books]]
+for more details.)
 
 Weather may be useful for boosting assistants as well as they will always talk
 about the weather (however it will count as their memory boost and thus any
@@ -144,7 +144,7 @@ other memory type will not be valid.)
 It has extremely high stats for a weather memory, so may be useful for some
 difficult challenges.
 
-See [[*Weather Table]] for full details on weather memory cards.
+See the [[*Weather Table][Weather Table]] for full details on weather memory cards.
 
 *** Circumstances
 
@@ -186,9 +186,9 @@ Tree of Wisdom branch AND has the particular principles for that station AND has
 been attuned to the soul element may be used once to combine two soul elements
 (also of that station's principles) into a single upgraded card.
 
-See [[*Tree of Wisdom]] for details about the branches, and see [[*Skills Table]] for
-information about the known skills, stats, and potential branch alignments and
-the element of soul cards produced..
+See the [[*Tree of Wisdom][Tree of Wisdom]] section for details about the branches, and see the [[*Skills
+Table][Skills Table]] for information about the known skills, stats, and
+potential branch alignments and the element of soul cards produced..
 
 ** Collectible Items
 
@@ -217,15 +217,15 @@ An item may be considered with a soul card and will produce a memory.
 
 Many destructable items may be reacquired by purchasing them via post.
 
-See [[*Crafting Items Summary Table]] and [[*Craftable Items Tables]] for information
-about craftable individual items.
+See the [[*Crafting Items Summary Table][Crafting Summary]] and [[*Craftable Items Tables][Craftable Items]] for information about craftable
+individual items.
 
-See [[*Miscellaneous Items]] for tables associated with many of the household
+See [[*Miscellaneous Items][Miscellaneous Items]] for tables associated with many of the household
 individual items in Hush House, including tools, plants, art and other objects
-of interest.
+of interest.  Some of these may overlap with the craft
 
 Collectible items cards are discussed further below while individual items of
-note are further discussed in [[*Inventory Items]].
+note are further discussed in the [[*Inventory Items][Inventory Items]] section.
 
 *** Currency
 
@@ -291,7 +291,7 @@ price for a book or a service will be shown as the Tally property on a book.
 *** Assistants and Visitors
 
 These 'people' item cards are obtained by either retaining the service of a town
-helper (see [[*Brancrug Village]]) or by visitors in search of consultation or in
+helper (see [[*Brancrug Village][Brancrug Village]]) or by visitors in search of consultation or in
 search of information about an ongoing event.
 
 All people are candidates for the Talk function.
@@ -395,14 +395,13 @@ Following catalogue, a book will have several elements of note:
     consideration will go through three "bonus rounds" during which other items
     may be requested to help meet the challenge.  Additional soul elements, and
     memories may be requested here, as well as occasionally a mood event
-    generated (See [[*Mood Table]] for details on what principles are covered
-    with which moods.)  Wall art and weather are notable items that may be
-    requested.
+    generated (See the [[*Mood Table][Mood Table]] for details on what principles are covered with
+    which moods.)  Wall art and weather are notable items that may be requested.
   - Failure to meet the challenge may cause a soul element card to gain the
     /Malady/ trait.  A different memory will be produced upon failure (typically
     thematic, like Regret or Fear).
-  - Any Element card used in the challenge attempt will gain the /Fatigued/
-    trait for the rest of the day.
+  - Any Element card used in the challenge attempt will gain the /Fatigued/ trait
+    for the rest of the day.
   - Any Memories used in the challenge attempt will be destroyed upon
     completion, whether successful or not.
   - If the book is corrupted, any Element cards used for the challenge may gain
@@ -417,7 +416,7 @@ Following catalogue, a book will have several elements of note:
 - Language: This is an optional trait which will make it impossible to
   successfully master the book without knowing the language.  The player
   character knows a number of languages to begin with.  Others may be acquired
-  (see [[*Assistants and Visitors]]).
+  (see [[*Assistants and Visitors][Assistants and Visitors]]).
 - It is possible for a book to be a phonograph record, or film.  If this is
   true, the book may not be considered as usual, but instead use a projector or
   phonograph to master.
@@ -435,7 +434,7 @@ Books may also be obtained periodically from an external source that will offer
 to sell the book via mail order.  The price for the book will be in tally and
 must be paid for with /spintria/.
 
-See [[*Book Table]] for details about known books.
+See the [[*Book Table][Book Table]] for details about known books.
 
 **** Journal
 
@@ -516,8 +515,8 @@ interacting with the outside world.
   vanish from the Items tab.  If an assistant is consulted about something and
   produces a memory, this will use up the assistant as well.
 
-See [[*Town Assistant Table]] and [[*Hired Assistant Table]] for details on the
-assistant hiring requirements and soul principle capabilities.
+See the [[*Town Assistant Table][Town Assistants]] and [[*Hired Assistant Table][Hired Assistants]] tables for details on the assistant
+hiring requirements and soul principle capabilities.
 
 ** Crowcross Sands
 
@@ -595,7 +594,7 @@ placed in the center and will produce a soul card.
 Each branch will unlock following the journal in the center.  A skill may be
 placed in that location that must have one of the branch names as a trait.  When
 a skill is assigned to a location, it becomes attuned to a skill that results.
-See [[*Skills Table]] for the list of skills and the soul cards that result from
+See the [[*Skills Table][Skills Table]] for the list of skills and the soul cards that result from
 particular wisdom locations.  These are deterministic.
 
 Once a skill is assigned it may never be assigned again.  Additional progress
@@ -631,30 +630,30 @@ on these people are collected below.
 Not much known yet about the abbey, however there are a number of
 abbots/abbesses of note as well as contemporaneous people mentioned.
 
-- Abbess Nonna
+- _Abbess Nonna_
   - Died by 'poisoning and Arts unsanctioned'
   - Monastery is reformed to accept only male novices.
-- Abbot Geffrey
+- _Abbot Geffrey_
   - Gave sanctuary to Natan (a jewish man).
   - Built Barber's Tower in 15th century.
-- Abbot Thomas
+- _Abbot Thomas_
   - Early abbot before the Solar Gothic.
   - Liked to talk.
   - Originally a Viking mercenary named Toke and quartered at the abbey.
   - Eyes were pecked out after trying to loot.
   - Became the Abbot Thomas of the Abbey of the Black Dove.
   - Ship-brother Trygve
-- Natan
+- _Natan_
   - A Jewish family that was granted asylum and lived in one of the abbey
     towers.
   - The patriarch of the family, Natan, was a physician and enhanced the medical
     care of the abbey.
-- Abbot Richard
+- _Abbot Richard_
   - Called "Roaring Richard"
   - Wrote the book about local man and Icarus
   - Caused John Tregonwell to dissolve monastery
-- Sister Isabel
-  - The Instruments of the Heart
+- _Sister Isabel_
+  - Book commentary from /The Instruments of the Heart/
     - Sister Isabel, then Precentress of the Abbey-Church of St Brandan's,
       engages in dialogues with a Heart-long of a kind called 'duendrazon' that
       has taken partial possession of her body.
@@ -675,14 +674,14 @@ Hush House was created and built on baronial land and the aristocracy had a
 great deal of initial influence on the library.  There are many busts of the
 barons and these may be placed in the stairway in the appropriate niche.
 
-1. Hendrik Dewulf
+1. _Hendrik Dewulf_
    - Known for merciless justice.
    - He obtained the island in 1536 after St. Brandan's Abbey was dissolved.
    - Had been a mercenary captain under Maaren van Rossum, however left after
      the sack of the Hague.
    - Trained as a priest.
 2. Thomas Dewulf? Giles Dewulf (?) Probably Giles
-3. Walter Dewulf (?)
+3. _Walter Dewulf_
    - "Walter Dewulf, who found Hush House a draughty castle and left it a
      stately home, but who will always be remembered for his cowardice, his
      sorrow, and his son Bryan's treachery."
@@ -693,19 +692,19 @@ barons and these may be placed in the stairway in the appropriate niche.
    - 1642 Bryan ran away at 16 to join Royalist army, captured, returned
    - 1648 Bryan runs away again
    - Collaborated with Gregory Wheelock
-4. Musgrave Dewulf
+4. _Musgrave Dewulf_
    - "Who was mocked as the Bleating Baron even while Brancrug prospered
      quietly, who was renowned for his piety but who won praise from the magus
      Julian Coseley.  A quiet contradiction of a man."
    - 4th baron alcove says "who was mocked more than merited".
-5. Gideon Dewulf
+5. _Gideon Dewulf_
    - "Physician, fifth of his line, nicknamed the Motley Baron by those who
      disliked him and 'the Cutter' by those who feared him."
-6. Valentine Dewulf
+6. _Valentine Dewulf_
    - In 1721 fell from the top of Gullscry Tower with no witnesses.
    - His son Eales did not inherit the barony
    - Instead the younger daughter Eva became the 7th baroness.
-7. Eva Dewulf
+7. _Eva Dewulf_
    - "Satirist, Salonist, Herpetologist, and last of the Dewulfs."
 
 ** Librarians
@@ -713,36 +712,36 @@ barons and these may be placed in the stairway in the appropriate niche.
 Hush House has been managed by Librarians in later years after the abbey was
 dissolved and the aristocracy faded.
 
-1. Ambrose Westcott
+1. _Ambrose Westcott_
    - "First librarian and metallurgist, alchemist, and pyrographer."
-2. Kitty Mazarine
+2. _Kitty Mazarine_
    - "Musician, composer.  Almost French, almost Spanish, almost American."
-3. Solomon Husher
+3. _Solomon Husher_
    - Reverend
-4. Fraser Strathcoyne
+4. _Fraser Strathcoyne_
    - Known as the collector and the former treasurer of the Curia.
 5. TBD (Maybe Natalia?)
-6. Willem Harries
+6. _Willem Harries_
    - "Willem Harries, sixth Librarian, priest and nyctodromist, whose end has
      always remained obscure."
-7. Thirza Blake
+7. _Thirza Blake_
    - Known for enjoying fruit in all ways.
    - Knew Killasimi (fabric language).
    - "Thirza Blake, seventh Librarian, mistress of Wood-lore, squanderer of
      fortunes, giver of no damns whatsoever."
-8. Sir David Greene
+8. _Sir David Greene_
    - Enjoys a glass of Roscraggan Whisky (text from Whisky)
-9. Brian Levinsen
+9. _Brian Levinsen_
   - "Brian Levinsen, ninth Librarian, painter and doctor, who never returned
     from the Western Front."
-10. Serena Blackwood
+10. _Serena Blackwood_
     - A scholar and administrator.
     - She quarrelled with the prison and left before her term finished.
 11. TBD
-12. Player Librarian
+12. _Player Librarian_
     - 12th librarian niche reads "This, of course, would be me. I could use
       whatever I want as my image."
-13. Successor
+13. _Successor_
     - 13th librarian niche reads "If I have a successor, their image might stand
       here."
 
@@ -750,38 +749,38 @@ dissolved and the aristocracy faded.
 
 The history of Hush House has many people involved.  Here are some of them.
 
-- "Sister"
+- _"Sister"_
   - From the Dawn Period, before the Suppression Bureau, Curia, Dewulfs, and
     Sisters of the Knot.  100 generations ago.
-- Lady de Braose
+- _Lady de Braose_
   - Known as the 1st Eva, never visited the island but endowed the Abbey in 13th
     century.  There are rumors why the widow of a Marcher lord took an interest
     in the abbey.  Widow of Marcher Lord Gwilym Ddu (Black William)
-- Lady Rowena
+- _Lady Rowena_
   - Enigmatic Protectress with status by Henry Moore.  The artist spoke of a
     "Pale Comission".
-- Bryan Dewulf
+- _Bryan Dewulf_
   - 1642 Bryan ran away at 16 to join Royalist army, captured, returned
   - 1648 Bryan runs away again
-- Natalia Brulleau
+- _Natalia Brulleau_
   - Duellist, mystic, traveller
   - Thought was 5th Baron for some reason?  Maybe 5th librarian?
-- Giles Dewulf
+- _Giles Dewulf_
   - Grandson of Henrik
   - Ran off with 'Pale Trollop Hafren'
-- Abra Southey
+- _Abra Southey_
   - Relative of Eva Dewulf?  Possibly ancestor of Eva Dewulf?
   - "The bust bears a slight but definite resemblance to the many depictions of
     the notorious Eva Dewulf. But surely Eva bore only a son, and her
     grand-daughters died young."
-- Christopher Illopoly
+- _Christopher Illopoly_
   - Perugian Diaries
     - In 1907, at the age of eighteen, Christopher Illopoly left Strathcoyne's
       household to study theology at the University of Perugia in Italy,
       enrolling under the name 'Christopher Strathcoyne'.
     - Fraser's pupil and protege
-- Gregory Wheelock
-  - Employed by Walter Dewulf to construct the Winding Stair and gues chambers.
+- _Gregory Wheelock_
+  - Employed by Walter Dewulf to construct the Winding Stair and guest chambers.
 
 
 * Appendix: Tables
@@ -793,7 +792,7 @@ writing.
 ** Element of Soul Card Table
 
 Primary principles start at 2, and secondary principles start at 1.  When the
-card is upgraded to *+*, *++*, and *+++* levels, each principle increases by one.
+card is upgraded to *+*, *++*, and *+++* levels each principle increases by one.
 
 Health is a little weird as both primaries start at 1 (for a total of 2), and
 then the secondary upgrades slower.
@@ -866,6 +865,7 @@ Organized by the number of principles each memory possesses.
 | Salt                  | 1 knock, 1 moon        | Book, Swimming in ocean            |
 | Revelation            | 2 lantern              | Book                               |
 | Blindsight            | 2 winter               | Book                               |
+| Torgue's Cleansing    | 2 edge                 | Crafting                           |
 | Contradiction         | 2 edge, 1 moon         | Book                               |
 | Foresight             | 2 forge, 1 lantern     | Book                               |
 | Satisfaction          | 2 grail, 1 heart       | Book                               |
@@ -887,7 +887,6 @@ Organized by the number of principles each memory possesses.
 | Bittersweet Certainty | 2 winter, 1 lantern    | Book, Crafting                     |
 | Earthsign             | 2 nectar, 2 scale      | Book, Persistent, Omen, Evolve     |
 | Curious Hunch         | 4 knock, 3 sky, 3 moth | Crafting, Persistent, Omen, Evolve |
-| Torgue's Cleansing    | 2 edge                 | Crafting                           |
 |-----------------------+------------------------+------------------------------------|
 
 ** Book Table
@@ -993,7 +992,7 @@ Organized by the Principle mystery challenge.
 
 ** Skills Table
 
-Organized by position in the [[*Tree of Wisdom]] starting at the top and working
+Organized by position in the [[*Tree of Wisdom][Tree of Wisdom]] starting at the top and working
 clockwise, first wisdom and then second wisdom.
 
 |-------------------------------+---------+-----------+---------------+--------+---------------+--------|
@@ -1050,13 +1049,15 @@ clockwise, first wisdom and then second wisdom.
 
 ** Mood Table
 
+These sometimes pop up during a book mastery challenge "bonus round".
+
 |-----------+-----------------------------------|
 | Mood Name | Base Soul Elements                |
 |-----------+-----------------------------------|
-| Duende    | 2 grail, 2 heart, 2 nectar        |
+| /Duende/    | 2 grail, 2 heart, 2 nectar        |
 | Epiphany  | 2 forge, 2 moon, 2 moth           |
-| Ubi Sunt  | 2 edge, 2 scale, 2 winter         |
-| Awen      | 2 lantern, 2 knock, 2 rose, 2 sky |
+| /Ubi Sunt/  | 2 edge, 2 scale, 2 winter         |
+| /Awen/      | 2 lantern, 2 knock, 2 rose, 2 sky |
 |-----------+-----------------------------------|
 
 ** Crafting Stations Table
@@ -1108,32 +1109,33 @@ clockwise, first wisdom and then second wisdom.
 
 ** Crafting Items Summary Table
 
-See [[*Craftable Items]] for details on the results of crafting.
+See the subsection [[*Craftable Items Tables][Craftable Items Tables]] for details on the results of
+crafting.
 
 |-----------------------+------------------+-----------------------+---------------+---------------+----------------|
 | Craftable             | Priciple Req.    | Skill                 | Special       | Type          | Notes          |
 |-----------------------+------------------+-----------------------+---------------+---------------+----------------|
-| Westcott's Compounds  | 5 moth           |                       |               | Material      |                |
-| Isle-Water Pitcher    | 1 heart, 1 penny |                       |               | Beverage      | At Well        |
-| Witching Tisane       | 5 grail          |                       |               | Beverage      |                |
-| Thirza's Cordials     | 5 nectar         |                       |               | Beverage      |                |
-| Bitterblack Salts     | 5 forge          |                       |               | Pigment       |                |
-| Refulgin              | 5 lantern        |                       |               | Pigment       |                |
-| Salt-sign             | 5 rose           |                       |               | Mark          |                |
-| Midnight Mark         | 5 moon           |                       |               | Mark          |                |
-| Torgue's Cleansing    | 5 edge / 5 sky   |                       |               | Memory        |                |
-| Secret Threshold      | 5 knock          |                       |               | Memory        |                |
-| Bittersweet Certainty | 5 winter         |                       |               | Memory        | Desk:Eva       |
-| Iotic Essence         | 10 forge         | Anbary & Lapidary     | Liquid        | Pigment, Fuel | Alchemy Table  |
-| Orpiment Exultant     | 15 forge         | Anbary & Lapidary     | Iotic Essence | Ink           | Alchemy Table  |
-| Curious Hunch         | 10 knock         | The Great Signs/Scars | Memory        | Memory        | Necropsy Table |
+| Isle-Water Pitcher    | 1 heart, 1 penny |                       |               | [[*Beverages & Edibles][Beverage]]      | At Well        |
+| Witching Tisane       | 5 grail          |                       |               | [[*Beverages & Edibles][Beverage]]      |                |
+| Thirza's Cordials     | 5 nectar         |                       |               | [[*Beverages & Edibles][Beverage]]      |                |
+| Westcott's Compounds  | 5 moth           |                       |               | [[*Materials][Material]]      |                |
+| Bitterblack Salts     | 5 forge          |                       |               | [[*Pigments][Pigment]]       |                |
+| Refulgin              | 5 lantern        |                       |               | [[*Pigments][Pigment]]       |                |
+| Salt-sign             | 5 rose           |                       |               | [[*Marks][Mark]]          |                |
+| Midnight Mark         | 5 moon           |                       |               | [[*Marks][Mark]]          |                |
+| Torgue's Cleansing    | 5 edge / 5 sky   |                       |               | [[*Memory Table][Memory]]        |                |
+| Secret Threshold      | 5 knock          |                       |               | [[*Memory Table][Memory]]        |                |
+| Bittersweet Certainty | 5 winter         |                       |               | [[*Memory Table][Memory]]        | Desk:Eva       |
+| Curious Hunch         | 10 knock         | The Great Signs/Scars | Memory        | [[*Memory Table][Memory]]        | Necropsy Table |
+| Iotic Essence         | 10 forge         | Anbary & Lapidary     | Liquid        | [[*Pigments][Pigment]], [[*Fuels][Fuel]] | Alchemy Table  |
+| Orpiment Exultant     | 15 forge         | Anbary & Lapidary     | Iotic Essence | [[*Inks][Ink]]           | Alchemy Table  |
 |-----------------------+------------------+-----------------------+---------------+---------------+----------------|
 
 ** Craftable Items Tables
 
 Sometimes these are found in the house, more often they're purchased or crafted
 
-*** Edibles
+*** Beverages & Edibles
 
 |-------------------+------------------------------------+----------+-------+-----|
 | Name              | Principles                         | Type     | Craft | Buy |
@@ -1169,10 +1171,13 @@ Sometimes these are found in the house, more often they're purchased or crafted
 | Name              | Principles | Craft | Buy |
 |-------------------+------------+-------+-----|
 | Bitterblack Salts | 1 forge    | X     |     |
-| Refulgin          | 2 lantgern | X     |     |
+| Refulgin          | 2 lantern  | X     |     |
 |-------------------+------------+-------+-----|
 
 *** Marks
+
+Honestly don't know what these are for just yet.  I haven't found a crafting
+table that specializes in them.
 
 |---------------+----------------+-------+-----|
 | Name          | Principles     | Craft | Buy |
@@ -1181,7 +1186,7 @@ Sometimes these are found in the house, more often they're purchased or crafted
 | Midnight Mark | 2 moon, 1 moth | X     |     |
 |---------------+----------------+-------+-----|
 
-*** Miscellaneous Crafting Materials
+*** Materials
 
 |---------------------+-----------------------------------------------+-------+-----|
 | Name                | Principles                                    | Craft | Buy |
@@ -1196,12 +1201,14 @@ don't seem to fit anywhere else.
 
 *** Plants
 
+Harvested in the various garden bushes with a Heart of any level, and a skill with nectar.
+
 |--------------------+--------------------------------------+------------------------+----------------|
 | Name               | Principles                           | Location               | Season         |
 |--------------------+--------------------------------------+------------------------+----------------|
 | Moth Orchid        | 2 knock, 1 moth, 1 nectar            | Scent Garden           | Spring         |
 | Catsclaw           | 2 edge, 1 heart, 1 nectar            | Physic Garden          | Spring         |
-| Trumpeter's Lily   | 1 heart, 1 nectar, 2 skyf            | Physic Garden          | Summer         |
+| Trumpeter's Lily   | 1 heart, 1 nectar, 2 sky             | Physic Garden          | Summer         |
 | Agave Aeterna      | 2 lantern, 1 nectar, 1 winter        | Scent Garden           | Summer         |
 | Sea Holly          | 1 moon, 1 nectar, 1 winter           | St. Brandan's Cloister | Summer         |
 | Fragrant Chalice   | 2 grail, 1 nectar                    | Scent Garden           | Summer, Autumn |
@@ -1213,6 +1220,9 @@ don't seem to fit anywhere else.
 |--------------------+--------------------------------------+------------------------+----------------|
 
 *** Tools
+
+May be used with assistants as one of the things they may be spoken about to
+buff their principles.
 
 |--------------------------+----------------------------------------+------------------------------------|
 | Name                     | Location                               | Principles                         |
@@ -1237,6 +1247,10 @@ don't seem to fit anywhere else.
 |--------------------------+----------------------------------------+------------------------------------|
 
 *** Wall Art
+
+Sometimes used as a specific aid during a book mastery challenge "bonus round".
+This is very much not complete because trying to catalog all the wall art is
+tedious.
 
 |-----------------------------+----------+------------|
 | Name                        | Location | Principles |
