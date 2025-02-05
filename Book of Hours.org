@@ -1,0 +1,1264 @@
+#+TITLE: Book of Hours Notes
+#+AUTHOR: Mark Norton
+#+DATE: Wed Jan  8 08:40:06 2025
+#+EMAIL: remillard@gmail.com
+#+options: timestamp:t title:t toc:t todo:t |:t ^:{}
+#+startup: num
+
+* Basic Game Elements
+
+** Principles of Soul
+
+The Principles of Soul are the fundamental traits of everything in the game.
+Every item, memory, card, etc will likely have one of these properties.  Books
+will have challenges of these priciples to meet.  Visitors will be interested in
+a certain amount of mystery about them.  There are 13 principles.
+
+1. Edge
+2. Forge
+3. Grail
+4. Heart
+5. Knock
+6. Lantern
+7. Moon
+8. Moth
+9. Nectar
+10. Rose
+11. Scale
+12. Sky
+13. Winter
+
+** Element of the Soul (Soul Cards)
+
+Elements of the Soul in the form of soul cards are used to pay for tasks and
+will be depleted on use to obtain the /Fatigued/ trait.  /Fatigue/ will be removed
+at daybreak.  Soul cards are kept in the 2nd card tableau on the screen and may
+come in base or upgraded varieties (marked with additional + signs.)
+
+A soul card may also acquire a /Malady/ trait, most likely because a soul card was
+used in a failed attempt to consider a book, or if the book is corrupted in some
+form.  The quality that creates a malady will vary between elements and the
+message received will describe what happened.  A soul card does not generally
+attain a /Malady/ when used to pay for the initial book consideration.  Maladies
+may be healed at beds, though not every bed may address every Element.
+
+Elements of the Soul may be upgraded at crafting tables that matches the skill,
+using a skill that matches the crafting table and has been attuned to them on
+the Tree of Wisdom, and using two elements of the same strength.
+
+See [[*Element of Soul Card Table]] in the appendix for details.
+
+** Memories
+
+Memories are created from most events.  Considering an household item with an
+Element card will product a basic sensory memory.  The memory from considering
+an item is constant and does not depend on the soul card used for the effort
+(also true of reconsidering books).  Memory cards are kept in the 1st card
+tableau on the screen (from the left).
+
+Considering books with success will produce a memory for that book as well as
+one or more lessons.  Failure to meet a book challenge will also produce a
+memory (often Fear or Regret).  Reconsidering a book that has been mastered will
+produce the same memory.
+
+A memory is destroyed when it is used, at dawn in the case of non-persistent
+memories, or at the end of the Numa season for all memories, persistant or not.
+
+Memories are used for nearly everything.  An assistant may be spoken to about a
+memory to gain its stats (only once per day).  Memories are used to attempt to
+meet the requirements for a book element challenge.  Memories are used for
+crafting (and so forth).
+
+Specific memory types may be called for when entering the bonus round for
+considering a book with not enough element to initially surpass the challenge.
+In particular, weather is a known memory type that may be requested
+specifically.
+
+See [[*Memory Table]] for details on the traits of known memories.
+
+See [[*Weather Table]] for details on the traits of weather memories.
+
+*** Lessons
+
+Lessons are special memories obtained by successfully considering books and
+passing the relevant Soul Principle challenge.  The number of lessons gained
+increases with the difficulty of the challenge.  They are considered a memory
+with the additional tag of Persistent so they do not disappear at daybreak.
+They WILL disappear at the end of a /Numa/ season.
+
+Lessons are *only* generated the first time a book is mastered.  A lesson may be
+considered to become a skill.  They may also used in upgrading skills and
+evolving Elements.
+
+See [[*Book Table]] for a listing of which lessons and other memories are obtained
+from which books.  This may be cross-referenced with the [[*Memory Table]] for
+properties of specific memories.
+
+*** Seasons and Weather
+
+**** Seasons
+
+There are four normal seasons: spring, summer, autumn, and winter.  These cycle
+as one would expect.  The next season begins when the vine on the time display
+shows the final little V branching of the season vine at the very left side of
+the display.  The season will update shortly after the weather generation step,
+not at daybreak.  Any harvesting that starts in the period between daybreak and
+the season switch continues at the season when the task originated.
+
+Each season will only produce certain types of weather memories.
+
+The season of /Numa/ is generated very infrequently, will last only a signle day,
+and may be years between events.  The first time the /Numa/ season is generated, a
+special topic of discussion is generated.  Additionally for the first and
+subsequent /Numa/ seasons, a visitor will be generated.  The visitor will be
+willing to discuss the /Numa/ special topic, however may be consulted for other
+subjects if desired.
+
+During /Numa/, there are special crafting reagents that may be obtained in the
+gardens, and there may be other interesting results in crafting.
+
+Beware!  At the end of /Numa/, all memories will be discarded, *including
+persistent memories* like lessons and omens.  This effectively resets the memory
+space and prevents lesson hoarding.
+
+See [[*Weather Table]] for information on which seasons may produce which weather
+memories.
+
+**** Weather
+
+Weather is generated daily, not at sunrise, but shortly thereafter.  The card
+generated is considered as a weather type and a memory type, thus weather is
+relatively renewable and oftentimes has very high soul element memory type with
+a variety of uses.  Which weather event is generated is random and season
+dependent (more sunny days in summer, less in winter, etc.)
+
+A weather card may be requested specifically when considering a book and failing
+the element challenge and cycling through the bonus rounds.  (See [[*Books]] for
+more details.)
+
+Weather may be useful for boosting assistants as well as they will always talk
+about the weather (however it will count as their memory boost and thus any
+other memory type will not be valid.)
+
+/Nume-Brume/ is a special weather event that happens only during the /Numa/ season.
+It has extremely high stats for a weather memory, so may be useful for some
+difficult challenges.
+
+See [[*Weather Table]] for full details on weather memory cards.
+
+*** Circumstances
+
+There are some status cards (like "Receding Waters") that are not memories
+however exist in the Memory card tableau.
+
+Circumstances are produced by some game events like pumping the water out of the
+lower levels (and presumably others.)
+
+Circumstances are destroyed in the season of /Numa/.
+ 
+** Skills
+
+Skills are obtained from considering lessons.  This will produce a permanent
+skill card to be used for a variety of actions.  Skills are not depleted or
+destroyed upon use.  Skills are kept in the 3rd card tableau at the bottom of
+the screen.
+
+Skills may be upgraded by considering the skill card.  This will require a soul
+element that is related to the skill as well as a lesson with relevant soul
+principles, and increasing amounts memories per level of upgrade to be
+successful.
+
+Skills are used for meeting book element challenges, crafting, and creating new
+soul element cards for the player, as well as upgrading soul elements.
+
+One particular and important use of skills relates to the Tree of Wisdom.  Each
+skill initially has an affinity for two of the branches of the Tree of Wisdom.
+Once placed into one of the branches, a new Element of Soul card is produced.
+The Element of Soul produced is deterministic based on the Skill and the branch.
+Once a skill is placed, it is permanently attuned to that branch and will lose
+the other branch's property.  It may not be further applied to the Tree of
+Wisdom even if raised to a higher level.
+
+Particular crafting stations are used to upgrade soul element cards.  The
+crafting station will have a property aligning it with a Tree of Wisdom branch,
+as well as a number of principles of soul.  A skill that is associated with a
+Tree of Wisdom branch AND has the particular principles for that station AND has
+been attuned to the soul element may be used once to combine two soul elements
+(also of that station's principles) into a single upgraded card.
+
+See [[*Tree of Wisdom]] for details about the branches, and see [[*Skills Table]] for
+information about the known skills, stats, and potential branch alignments and
+the element of soul cards produced..
+
+** Collectible Items
+
+Items may either be individual items obtained from Hush House, or collectible
+item cards.  Individual items are things like books, tools, and plants that are
+held in the inventory in the upper left corner of the game screen.  The
+librarian may only hold five individual items at a time, and any event that
+generates a sixth will cause the newest item to be placed outside of Hush House.
+Collectible items are represented by cards and are held in the card tableau in
+the lower right hand corner.
+
+All individual items have soul principles to them.  Some items are destructable
+(usually smaller items, candles, foodstuffs, beverages, crafting materials,
+etc.)  The game will sometimes tells you when an item will be destroyed (during
+a basic consideration, or talking to an assistant or visitor about the item),
+however it may be assumed that in crafting it will be destroyed in the process.
+The game will not warn you about destruction during crafting.  In particular,
+note that the tea service in the opening room may be used to produce single
+glasses of liquids *without* fully depleting the original bottle (though this is
+not infinity -- the item title will start to show levels of the beverage).
+Later in the kitchen, there is a serving cabinet that does the same thing.
+Creating a glass of a beverage is a good way to add stats to an assistant as
+they all will appreciate food or drink.
+
+An item may be considered with a soul card and will produce a memory.
+
+Many destructable items may be reacquired by purchasing them via post.
+
+See [[*Crafting Items Summary Table]] and [[*Craftable Items Tables]] for information
+about craftable individual items.
+
+See [[*Miscellaneous Items]] for tables associated with many of the household
+individual items in Hush House, including tools, plants, art and other objects
+of interest.
+
+Collectible items cards are discussed further below while individual items of
+note are further discussed in [[*Inventory Items]].
+
+*** Currency
+
+**** Money
+
+
+
+Used for hiring laborers, buying items by post, etc.  Uses old British coin
+system so a table of names and values is shown below.  When money is used to pay
+for something, change will automatically be created.  The organize inventory
+button may be used to combine money items into the least amount of cards
+possible.
+
+|---------------+--------|
+| Name          | Amount |
+|---------------+--------|
+| Penny         | 1p     |
+| Twopence      | 2p     |
+| Threepence    | 3p     |
+| Half-shilling | 6p     |
+| Shilling      | 12p    |
+| Florin        | 24p    |
+| Half-crown    | 30p    |
+| Crown         | 60p    |
+| Pound         | 240p   |
+|---------------+--------|
+
+The librarian will start out with a small allowance from the Curia after
+responding to the initial letter.  Thereafter another larger (but still limited)
+allowance is granted each spring season.
+
+Generally the largest use of money is hiring assistants from the bar.  The price
+of that is 24p.  Given that the yearly stipend is one pound (240p) generally you
+can count on opening about 10 rooms in a year after the first, if managed well.
+Most of the initial rooms may be opened with the less expensive assistants in
+the form of the the other houses in the village.
+
+Money may also be used to order items from the two catalogs that comes to Hush
+House shortly after opening it up.
+
+Note, depending on the opening soul cards obtained at the beginning, it may be
+necessary to hire an assistant to introduce to one of the other houses as it may
+be impossible to use soul cards to pique their interest.
+
+**** /Spintria/ & Tally
+
+/Spintria/ is used for making wire, or buying books from the book seller event
+that happens occasionally.  Also may be used to give to a visitor who knows a
+language and can teach it.  A table of names and values is shown below.  The
+price for a book or a service will be shown as the Tally property on a book.
+
+/Spintria/ may be pared into smaller parts for making wire.  Much like money, if
+/spintria/ is used to pay for something, they will make change appropriately.
+
+|--------+---------|
+| Name   | Amount  |
+|--------+---------|
+| Gold   | 5 tally |
+| Silver | 4 tally |
+| Tin    | 3 tally |
+| Bronze | 2 tally |
+| Iron   | 1 tally |
+|--------+---------|
+
+*** Assistants and Visitors
+
+These 'people' item cards are obtained by either retaining the service of a town
+helper (see [[*Brancrug Village]]) or by visitors in search of consultation or in
+search of information about an ongoing event.
+
+All people are candidates for the Talk function.
+
+Assistants may be talked to about memories, weather, soul cards, and some items
+or memories.  They will acquire the full value of the soul principles of these
+items.  If a memory is used in this way it will be destroyed after talking.  If
+an item is used it may or may not be destroyed, check the dialog to determine if
+this will happen.  Note sometimes the notification is oblique such as "The
+Coffinmaker will keep whatever remains of the wood." indicating it will be
+destroyed in the process.  Items classified as Tools are almost always safe from
+destruction, unless there is a special reason why they might not (the doll in
+the infirmary is classified as a tool and single use).
+
+Assistants are used to open rooms as the librarian is a weak person and may not
+do physical labor apparently.  Boosting an assistant is vital to making the soul
+principle check for opening a room.
+
+Other visitors have a number of talk actions that may be useful.  It is
+imperative to check the visitor card traits in detail to find out what they know
+and what they are interested in.
+
+- A visitor will often have an interest in the ongoing event.  The event card
+  may be supplied as the topic of discussion.  During the talk, a book will be
+  required as a solution to the discussion.  This book must have a mystery value
+  greater than or equal to the visitor's interest in it.  The book does not have
+  to be mastered.  Note that a visitor may be interested in two soul element
+  topics however only *one* will be valid during the discussion about the event
+  so pay attention to the dialog text before committing to the talk, because it
+  *will not be repeated* once the conversation begins.  It may be useful to
+  identify in advance whether a book exists for that visitor!
+
+  A visitor may not be offered the same book twice as an answer to discussing an
+  event.  The book will be given a property for that visitor when used.
+
+  Upon succesful discussion about the event with a suitable book, the visitor
+  will pay in /spintria/.
+  
+- A visitor may know a language that the player does not.  In this case, there
+  should be no topic, and then in the following bin labeled "Give or Take" a
+  /spintria/ card must be placed for payment, and the visitor will offer to
+  teach the language.  Following the talk, a language skill card will be
+  produced.  This card counts as a skill may be upgraded like other skills.
+  
+- No topic may be provided, at which it's considered a consultation and may
+  produce a memory.
+
+*** Events
+
+Events are ongoing item cards that periodically will periodically cause a
+visitor to arrive.  The first event will occur sometime in the first year.
+
+The visitor may be talked to about the event upon which will desire a book that
+matches their interest.  Generally a good idea to locate the book BEFORE
+committing to talking to make sure it's understood which interest is at stake.
+
+Upon talking to a visitor about an event, they will pay in /spintria/.
+
+After several visitors have arrived to discuss the event, and have successfully
+been presented with a book that meets their interest, the event will be redrawn
+from the deck of events.
+
+*** Letters
+
+Initially the letter assigning the player character to Hush House is present.
+If the librarian does not answer within a few seasons, a second letter will
+follow asking why they haven't responded.  Responding to the letter requires a
+desk and ink (which will be consumed).
+
+Later, order forms are obtained to help order additional destructable items and
+reagents for crafting.  When replying to order forms, it does not consume an ink
+item, however responding to full letters seems to require an entire ink well.
+
+Letters may be destroyed in a fireplace once no longer useful.
+
+** Inventory Items
+
+The inventory system consists of five locations in the upper left hand corner
+that hold individual items from the environment.  If an action would cause a
+sixth inventory item to be generated, excess will be left outside Hush House on
+the ground.
+
+Inventory items are much like card inventory however represent objects which may
+be manipulated physically and placed in Hush House in appropriate places.
+
+*** Books
+
+Books are an item that shows up in rooms initially without identity.  Each book
+must be considered with a soul card to catalogue it and discover the title.  It
+does not seem to depend on the soul card what book is discovered (the soul card
+is merely used to pay for the effort).  The color of the book does not appear to
+have much relation to the book title (though may be related to the time period
+in which the book was written.)
+
+Following catalogue, a book will have several elements of note:
+
+- Challenge: To obtain a lessons from the book, a soul principle challenge must
+  be met while considering the book.  The number of lessons obtained varies with
+  the difficulty of the challenge.  A memory will additionally be produced.
+  - If the initial cards for the challenge does not satisfy the requirements,
+    consideration will go through three "bonus rounds" during which other items
+    may be requested to help meet the challenge.  Additional soul elements, and
+    memories may be requested here, as well as occasionally a mood event
+    generated (See [[*Mood Table]] for details on what principles are covered
+    with which moods.)  Wall art and weather are notable items that may be
+    requested.
+  - Failure to meet the challenge may cause a soul element card to gain the
+    /Malady/ trait.  A different memory will be produced upon failure (typically
+    thematic, like Regret or Fear).
+  - Any Element card used in the challenge attempt will gain the /Fatigued/
+    trait for the rest of the day.
+  - Any Memories used in the challenge attempt will be destroyed upon
+    completion, whether successful or not.
+  - If the book is corrupted, any Element cards used for the challenge may gain
+    the /Malady/ trait, regardless of success or failure.
+- Mastery: Once a book has been successfully considered, it may be reconsidered
+  to obtain a memory.  This memory will be the same memory that was originally
+  generated from the challenge consideration.  It will not produce a lesson and
+  the challenge does not need to be met a second time, just paying for the
+  effort with a soul card is sufficient.
+- Subject: This is the lesson the book will teach.  There are more books than
+  there are lessons, so multiple books address the same lesson.
+- Language: This is an optional trait which will make it impossible to
+  successfully master the book without knowing the language.  The player
+  character knows a number of languages to begin with.  Others may be acquired
+  (see [[*Assistants and Visitors]]).
+- It is possible for a book to be a phonograph record, or film.  If this is
+  true, the book may not be considered as usual, but instead use a projector or
+  phonograph to master.
+- It is possible for a book to be corrupted.  There are several forms of these
+  corruptions and the corruption may be removed with sufficient soul elements
+  and skill and memories.  If untreated, the corruption will cause maladies upon
+  consideration of the book.  It may be possible for corruption to spread to
+  other items nearby and corrupted books ought to be quarantined.
+
+A book, once mastered, is mainly a source of memories, however may also be used
+when visitors arrive to discuss events.  It is also fun to organize them by
+whatever method suits the player.
+
+Books may also be obtained periodically from an external source that will offer
+to sell the book via mail order.  The price for the book will be in tally and
+must be paid for with /spintria/.
+
+See [[*Book Table]] for details about known books.
+
+**** Journal
+
+The Journal is a special book and the center of the Tree of Wisdom.  With
+various inks, it may be added to.  The journal should likely be located in an
+easy to find place for later reference.  There is an amusing comment in-game
+that the journal location should be remembered because it's easy to get it lost.
+There will be a LOT of books.
+
+The stats on the Journal vary with the starting conditions of the game.
+
+* Locations
+
+** St Brandan's Cove
+
+- This is the game's starting area and may not be returned to.  The librarian
+  washes ashore and must consider the package in the inventory several times to
+  recall an acquaintance's address.  Along the way the initial soul cards that
+  will drive the opening state of the game and the initial Brancrug Village
+  patron are determined.  Finally talk must be used to get a fisherman to come
+  aid the librarian and open the path to the town.
+
+** Brancrug Village
+
+Brancrug Village is a small location adjacent to Hush House, used for
+interacting with the outside world.
+
+*** Zones
+
+- Mr. & Mrs. Kille's House (Coffinmaker, and Midwife)
+  - Provides two assistants depending on the soul card used: Mr. & Mrs. Kille.
+- The Rectory
+  - Provides the Rector assistant
+- The "Sweet Bones"
+  - The bar may be used to restore soul cards or hire helpers (see below on
+    helpers.)
+- Post Office
+  - Used at the beginning to get the initial allowance.  May break money into
+    subunits.  May mail letters.  Also apparently has a telegraph and telephone.
+- The Smithy
+  - Provides Denzil, the smith as an assistant.  Also may be used for breaking
+    /spintria/ down into lower amounts (and different metal types).
+- A Walk on the Moor
+  - Special location for using heart, rose, or scale element, and same skill to
+    discover items.  Usually grants a granite slab inventory item.
+
+*** Assistants
+
+- Assistants are obtained from the town in either the 3 starting house locations
+  or the bar.
+- The house the game starts will will provide an assistant for the price of
+  talking with them with a relevant soul card (which will become /Fatigued/).
+- The other two houses have assistants that may be obtained by interacting with
+  them at their house with a relevant soul card (which will become /Fatigued/)
+  and then providing 12p as a topic.
+  - The other houses must be unlocked by an introduction or topic.  The starting
+    assistant may introduce one, however a hired assistant may be required for
+    the other.
+- The bar will have a random passing assistant that may be discovered with any
+  soul card (which will become /Fatigued/), and 1p. It doesn't actually consume
+  the money, you're just flashing it around.
+- Once the passing assistant is identified, they may be hired for 24p.
+- Any assistant may be talked to with soul cards, memories or items to improve
+  their soul principle stats by the amount that is on the added item.
+  - Memories will be consumed in this manner.
+  - Soul cards will become /Fatigued/.
+  - An item is used as a topic of conversation, usually it means the item is
+    destroyed, unless it is one of most tools or specifically says it will not
+    be destroyed.
+- Assistants have limitations on the items they may be interested in.
+- Assistants are /usually/ the way to open rooms locations.
+- Assistants will persist as a card but refuse to begin a task after dusk.  If
+  the task is started before dusk, they will work to complete the task into the
+  night.
+- Assistants will go away at the next morning.
+- An assistant may be only used actively once (this does not count Talking with
+  them.)  If an assistant is used to open a room, the card will immediately
+  vanish from the Items tab.  If an assistant is consulted about something and
+  produces a memory, this will use up the assistant as well.
+
+See [[*Town Assistant Table]] and [[*Hired Assistant Table]] for details on the
+assistant hiring requirements and soul principle capabilities.
+
+** Crowcross Sands
+
+This area is unlocked by getting assistance for the Tidal Flats (2 moon or 2
+winter) and contains two zones.
+
+*** Zones
+
+- Beachcombing
+  - Used for finding items in the sea (notably the Hush House key if it's not in
+    the gatehouse)
+- Sea's Edge
+  - Used for destroying items and swimming in the sea.
+    
+** Cucurbit Bridge
+
+This area is unlocked by getting assistance for the Mist-Cloaked Bridge (1
+forge, 1 lantern, or 1 sky) and has no further purpose than to traverse to the
+Hush House Keeper's Lodge (likely part of the training on how to handle
+assistants and opening locations.)
+
+** Hush House
+
+This is the primary game zone, filled with rooms that must be unlocked with
+assistants.  Each room has may have inventory items that may be considered for
+additional clues as to what they are and the history of Hush House.  Each room
+may have books that may be considered to reveal memories, or skills.  Rooms may
+also have crafting stations like desks, telescopes, and pretty much anything
+else that offers multiple cards to insert to produce a result.
+
+*** Opening rooms
+
+Each room may only be opened by an assistant (except for the initial building
+which requires the key, usually provided, though sometimes required to swim in
+the ocean to find it.)  A room has a set of soul element requirements that must
+be met by the assistant, who must have or acquire by boosting them via memories
+or items.  There are some additional rooms that have unusual opening
+requirements however they are rare and the requirements for them are denoted in
+clues in the room text.
+
+Room opening is effectively gated by money for hiring assistants, and suitable
+soul cards, memories, and items to boost them.
+
+*** Crafting Stations
+
+Every crafting station may be attuned to a different set of soul elements, and
+it has a level of challenge points (5, 10, 15) for the relevant craft.  Some
+crafting areas are attuned to one of the Tree of Wisdom branches and may be used
+to merge soul cards together into stronger single cards using a skill that will
+work for the branch and the soul principles involved.
+
+Crafting will tell you what the result is, and how to recreate it, however
+requires starting to fill the craft slots to get this information.
+
+*** Miscellaneous Notes
+
+The following are a few clues in either book text, item text, or room
+description that may become a relevant clue later.
+
+- "When the Winter Tower was constructed (dedicated to the Madrugad), a new
+  foundation poured and the Abbot mandated Stargall, not Yewgall, ink.  The Ink
+  of Containment needed sky, not nectar."
+- Reading Calicite Supplications - "One prayer describes how sufficient
+  Grail-aspect can be used with Tridesma Hiera rites to give 'a life, a little
+  life, a little little life' to a doll twisted from fabric…"
+  - Clue to the little doll?
+
+
+* Tree of Wisdom
+
+The Tree of Wisdom is accessed via an icon next to the calendar on screen.  Each
+point on an axis will become a location for a card.  Initially the journal is
+placed in the center and will produce a soul card.
+
+Each branch will unlock following the journal in the center.  A skill may be
+placed in that location that must have one of the branch names as a trait.  When
+a skill is assigned to a location, it becomes attuned to a skill that results.
+See [[*Skills Table]] for the list of skills and the soul cards that result from
+particular wisdom locations.  These are deterministic.
+
+Once a skill is assigned it may never be assigned again.  Additional progress
+down a branch will require a skill with higher level so it is valuable to not
+necessarily upgrade initial skills as that may use Lessons that could be used to
+upgrade skills that may be used for progress.  (Leveling a skill may be
+necessary to progress through greater soul elements, just use caution as Lessons
+are a limited resource.)
+
+The skill that is produced is shown with a + sign before "Accept" is pressed so
+the player can adjust accordingly.
+
+The nine branch names are (starting from top and moving clockwise):
+
+1. Illumination
+2. Hushery
+3. Nyctodromy
+4. Skolekosophy
+5. Bosk
+6. Preservation
+7. Birdsong
+8. Holomachistry
+9. Ithastry
+
+* Dramatis Personae
+
+There are a number of historical personages discussed in the book or item texts.
+Some of these may only be discovered by successfully considering an item.  Notes
+on these people are collected below.
+
+** St. Brandan's Abbey 
+
+Not much known yet about the abbey, however there are a number of
+abbots/abbesses of note as well as contemporaneous people mentioned.
+
+- Abbess Nonna
+  - Died by 'poisoning and Arts unsanctioned'
+  - Monastery is reformed to accept only male novices.
+- Abbot Geffrey
+  - Gave sanctuary to Natan (a jewish man).
+  - Built Barber's Tower in 15th century.
+- Abbot Thomas
+  - Early abbot before the Solar Gothic.
+  - Liked to talk.
+  - Originally a Viking mercenary named Toke and quartered at the abbey.
+  - Eyes were pecked out after trying to loot.
+  - Became the Abbot Thomas of the Abbey of the Black Dove.
+  - Ship-brother Trygve
+- Natan
+  - A Jewish family that was granted asylum and lived in one of the abbey
+    towers.
+  - The patriarch of the family, Natan, was a physician and enhanced the medical
+    care of the abbey.
+- Abbot Richard
+  - Called "Roaring Richard"
+  - Wrote the book about local man and Icarus
+  - Caused John Tregonwell to dissolve monastery
+- Sister Isabel
+  - The Instruments of the Heart
+    - Sister Isabel, then Precentress of the Abbey-Church of St Brandan's,
+      engages in dialogues with a Heart-long of a kind called 'duendrazon' that
+      has taken partial possession of her body.
+    - The duendrazon, like all its kind, usually dwells in the Mansus but can
+      enter the physical world by manifesting as music, and take possession of a
+      willing - or semi-willing - mortal who hears and loves that music… like
+      Isabella.
+    - Isabella records her dreams of the high Mansus, where she is accorded the
+      duendrazon's status and titles. In return, the duendrazon enjoys what it
+      calls 'caesura' - a welcome oblivion. 'Our mostly-blessing is that we may
+      never cease - except /in caesurae/'. There is something more that Isabella
+      refers to as the 'caesura magna', but she laments that her duendrazon will
+      not tell her exactly what that might be.
+
+** Barons & Baronesses
+
+Hush House was created and built on baronial land and the aristocracy had a
+great deal of initial influence on the library.  There are many busts of the
+barons and these may be placed in the stairway in the appropriate niche.
+
+1. Hendrik Dewulf
+   - Known for merciless justice.
+   - He obtained the island in 1536 after St. Brandan's Abbey was dissolved.
+   - Had been a mercenary captain under Maaren van Rossum, however left after
+     the sack of the Hague.
+   - Trained as a priest.
+2. Thomas Dewulf? Giles Dewulf (?) Probably Giles
+3. Walter Dewulf (?)
+   - "Walter Dewulf, who found Hush House a draughty castle and left it a
+     stately home, but who will always be remembered for his cowardice, his
+     sorrow, and his son Bryan's treachery."
+   - 3rd baron niche says "who commanded the raising of this stair"
+   - Eloped with the "Pale Hafren"
+   - Reconciled with Giles due to Seneschale Ernestine
+   - Sided nominally with the Parliamentarians (and war)
+   - 1642 Bryan ran away at 16 to join Royalist army, captured, returned
+   - 1648 Bryan runs away again
+   - Collaborated with Gregory Wheelock
+4. Musgrave Dewulf
+   - "Who was mocked as the Bleating Baron even while Brancrug prospered
+     quietly, who was renowned for his piety but who won praise from the magus
+     Julian Coseley.  A quiet contradiction of a man."
+   - 4th baron alcove says "who was mocked more than merited".
+5. Gideon Dewulf
+   - "Physician, fifth of his line, nicknamed the Motley Baron by those who
+     disliked him and 'the Cutter' by those who feared him."
+6. Valentine Dewulf
+   - In 1721 fell from the top of Gullscry Tower with no witnesses.
+   - His son Eales did not inherit the barony
+   - Instead the younger daughter Eva became the 7th baroness.
+7. Eva Dewulf
+   - "Satirist, Salonist, Herpetologist, and last of the Dewulfs."
+
+** Librarians
+
+Hush House has been managed by Librarians in later years after the abbey was
+dissolved and the aristocracy faded.
+
+1. Ambrose Westcott
+   - "First librarian and metallurgist, alchemist, and pyrographer."
+2. Kitty Mazarine
+   - "Musician, composer.  Almost French, almost Spanish, almost American."
+3. Solomon Husher
+   - Reverend
+4. Fraser Strathcoyne
+   - Known as the collector and the former treasurer of the Curia.
+5. TBD (Maybe Natalia?)
+6. Willem Harries
+   - "Willem Harries, sixth Librarian, priest and nyctodromist, whose end has
+     always remained obscure."
+7. Thirza Blake
+   - Known for enjoying fruit in all ways.
+   - Knew Killasimi (fabric language).
+   - "Thirza Blake, seventh Librarian, mistress of Wood-lore, squanderer of
+     fortunes, giver of no damns whatsoever."
+8. Sir David Greene
+   - Enjoys a glass of Roscraggan Whisky (text from Whisky)
+9. Brian Levinsen
+  - "Brian Levinsen, ninth Librarian, painter and doctor, who never returned
+    from the Western Front."
+10. Serena Blackwood
+    - A scholar and administrator.
+    - She quarrelled with the prison and left before her term finished.
+11. TBD
+12. Player Librarian
+    - 12th librarian niche reads "This, of course, would be me. I could use
+      whatever I want as my image."
+13. Successor
+    - 13th librarian niche reads "If I have a successor, their image might stand
+      here."
+
+** Others
+
+The history of Hush House has many people involved.  Here are some of them.
+
+- "Sister"
+  - From the Dawn Period, before the Suppression Bureau, Curia, Dewulfs, and
+    Sisters of the Knot.  100 generations ago.
+- Lady de Braose
+  - Known as the 1st Eva, never visited the island but endowed the Abbey in 13th
+    century.  There are rumors why the widow of a Marcher lord took an interest
+    in the abbey.  Widow of Marcher Lord Gwilym Ddu (Black William)
+- Lady Rowena
+  - Enigmatic Protectress with status by Henry Moore.  The artist spoke of a
+    "Pale Comission".
+- Bryan Dewulf
+  - 1642 Bryan ran away at 16 to join Royalist army, captured, returned
+  - 1648 Bryan runs away again
+- Natalia Brulleau
+  - Duellist, mystic, traveller
+  - Thought was 5th Baron for some reason?  Maybe 5th librarian?
+- Giles Dewulf
+  - Grandson of Henrik
+  - Ran off with 'Pale Trollop Hafren'
+- Abra Southey
+  - Relative of Eva Dewulf?  Possibly ancestor of Eva Dewulf?
+  - "The bust bears a slight but definite resemblance to the many depictions of
+    the notorious Eva Dewulf. But surely Eva bore only a son, and her
+    grand-daughters died young."
+- Christopher Illopoly
+  - Perugian Diaries
+    - In 1907, at the age of eighteen, Christopher Illopoly left Strathcoyne's
+      household to study theology at the University of Perugia in Italy,
+      enrolling under the name 'Christopher Strathcoyne'.
+    - Fraser's pupil and protege
+- Gregory Wheelock
+  - Employed by Walter Dewulf to construct the Winding Stair and gues chambers.
+
+
+* Appendix: Tables
+
+The following tables are reference material that may be consulted during play to
+help plan activities.  These tables are not complete as of the time of this
+writing.
+
+** Element of Soul Card Table
+
+Primary principles start at 2, and secondary principles start at 1.  When the
+card is upgraded to *+*, *++*, and *+++* levels, each principle increases by one.
+
+Health is a little weird as both primaries start at 1 (for a total of 2), and
+then the secondary upgrades slower.
+
+|--------+---------------+-----------|
+| Name   | Primary       | Secondary |
+|--------+---------------+-----------|
+| Health | heart, nectar | scale     |
+| /Chor/   | heart         | grail     |
+| /Ereb/   | grail         | edge      |
+| Mettle | forge         | edge      |
+| /Phost/  | lantern       | sky       |
+| /Shapt/  | knock         | forge     |
+| /Trist/  | moth          | moon      |
+| /Wist/   | winter        | lantern   |
+| /Fet/    | rose          | moth      |
+|--------+---------------+-----------|
+
+** Town Assistant Table
+
+|------------------+--------------------+-----------------------+----------------|
+| Name             | Principles         | Principle Req'd       | Notes          |
+|------------------+--------------------+-----------------------+----------------|
+| Mr. Kille        | 1 sky, 2 winter    | winter                | May use wood   |
+| Mrs. Kille       | 2 grail, 1 heart   | grail                 | May use fabric |
+| Father Thomas    | 1 knock, 2 lantern | knock or lantern      |                |
+| Denzil the Smith | 2 edge, 2 forge    | edge, forge, or heart | May use metal  |
+|------------------+--------------------+-----------------------+----------------|
+
+** Hired Assistant Table 
+
+|----------+---------------------------+-----------------|
+| Name     | Stats                     | Notes           |
+|----------+---------------------------+-----------------|
+| Engineer | 4 forge, 4 lantern, 4 sky | May use fuel    |
+| Musician | 4 sky, 4 rose, 4 nectar   |                 |
+| Painter  | 4 grail, 4 moth, 4 rose   |                 |
+| Poet     | 4 winter, 4 moth, 4 sky   | May use flowers |
+| Fugitive | 4 scale, 4 edge, 4 heart  |                 |
+| Nun      | 4 knock, 4 moon, 4 grail  | May use omens   |
+|----------+---------------------------+-----------------|
+ 
+** Weather Table
+
+|------------+-----------------------------------+--------+--------+--------+--------+------|
+| Name       | Principles                        | Spring | Summer | Autumn | Winter | /Numa/ |
+|------------+-----------------------------------+--------+--------+--------+--------+------|
+| Sunny      | 2 lantern, 2 sky                  | X      | X      | X      |        |      |
+| Clouds     | 1 moon, 1 moth                    | X      | X      | X      | X      |      |
+| Rain       | 2 grail, 2 nectar                 | X      | X      | X      | X      |      |
+| Gale       | 3 heart, 3 sky                    | X      |        | X      | X      |      |
+| Fog        | 3 knock, 3 moon                   |        |        | X      | X      |      |
+| Hail       | 3 edge, 3 sky                     |        |        | X      | X      |      |
+| Storm      | 4 heart, 4 sky                    |        |        | X      | X      |      |
+| Snow       | 3 sky, 3 winter                   |        |        |        | X      |      |
+| /Nume-Brume/ | 5 knock, 5 moon, 5 rose, 5 winter |        |        |        |        | X    |
+|------------+-----------------------------------+--------+--------+--------+--------+------|
+
+** Memory Table
+
+Organized by the number of principles each memory possesses.
+
+|-----------------------+------------------------+------------------------------------|
+| Name                  | Principles             | Notes                              |
+|-----------------------+------------------------+------------------------------------|
+| Sight                 | 1 lantern              | Considering objects                |
+| Touch                 | 1 forge                | Considering objects                |
+| Scent                 | 1 nectar               | Considering foodstuff              |
+| Sound                 | 1 heart                | Collecting bees in winter          |
+| Salt                  | 1 knock, 1 moon        | Book, Swimming in ocean            |
+| Revelation            | 2 lantern              | Book                               |
+| Blindsight            | 2 winter               | Book                               |
+| Contradiction         | 2 edge, 1 moon         | Book                               |
+| Foresight             | 2 forge, 1 lantern     | Book                               |
+| Satisfaction          | 2 grail, 1 heart       | Book                               |
+| Solace                | 2 heart, 1 sky         | Book                               |
+| Cheerful Ditty        | 2 heart, 1 sky         | Book about music                   |
+| Pattern               | 2 knock, 1 forge       | Book                               |
+| A Stolen Secret       | 2 moon, 1 knock        | Book, Playing a record             |
+| Impulse               | 2 moth, 1 nectar       | Book                               |
+| Gossip                | 2 rose, 1 grail        | Book                               |
+| Fear                  | 2 scale, 1 edge        | Book, Others                       |
+| Hindsight             | 2 winter, 1 scale      | Book, Talking to Mr Kille          |
+| Regret                | 2 winter, 1 forge      | Book, Failing a book               |
+| Beguiling Memory      | 2 grail, 2 sky         | Book                               |
+| Storm                 | 2 heart, 2 sky         | Book                               |
+| Intuition             | 2 moon, 2 rose         | Book                               |
+| Confounding Parable   | 2 moon, 2 rose, 2 sky  | Book                               |
+| Savage Hymn           | 2 scale, 2 sky         | Book                               |
+| Secret Threshold      | 2 knock, 1 rose        | Book                               |
+| Bittersweet Certainty | 2 winter, 1 lantern    | Book, Crafting                     |
+| Earthsign             | 2 nectar, 2 scale      | Book, Persistent, Omen, Evolve     |
+| Curious Hunch         | 4 knock, 3 sky, 3 moth | Crafting, Persistent, Omen, Evolve |
+| Torgue's Cleansing    | 2 edge                 | Crafting                           |
+|-----------------------+------------------------+------------------------------------|
+
+** Book Table
+
+Organized by the Principle mystery challenge.
+
+|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+| Title                                     | Mystery    | Special  | Skill                           | Reading Memory      | Cost |
+|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+| Recordings from the Althiban Abyss        | 4 edge     | Record   | Stone Stories                   |                     |      |
+| The Sun's Lament                          | 4 edge     |          | Ragged Crossroads               | Fear                |    4 |
+| De Bellis Murorum                         | 6 edge     |          | Disciplines of the Scar         | Contradiction       |    2 |
+| The High Traditions of the Noble Endeavor | 6 edge     |          | Disciplines of the Hammer       | Foresight           |    3 |
+|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+| Sunset Passages                           | 4 forge    | Latin    | Sacra Solis Invicti             | Revelation          |    5 |
+| Vinzant's Minglings                       | 4 forge    |          | Bells & Brazieries              | Foresight           |    3 |
+| Journal of Walter Dewulf                  | 6 forge    |          | Door & Wall                     | Foresight           |    3 |
+| The Book of Cinders                       | 6 forge    |          | Pyroglyphics                    | Foresight           |    2 |
+| Ambrosial!                                | 8 forge    |          | Spices & Savours                | Impulse             |    2 |
+| A Shape in Smoke                          | 8 forge    |          | Pyroglyphics                    | Revelation          |    3 |
+| The Incandescent Tantra                   | 8 forge    | Sanskrit | Transformations & Liberations   | Foresight           |    2 |
+| The Temptations of Architecture           | 10 forge   |          | Door & Wall                     | Secret Threshold    |    2 |
+|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+| The Skeleton Songs                        | 4 grail    |          | Resurgences & Emergences        | Beguiling Memory    |    1 |
+| The Orchid Transfigurations: A Feast      | 4 grail    | Latin    | Desires & Dissolutions          | Intuition           |    3 |
+| The Wind's Ruin                           | 4 grail    |          | Applebright Euphonies           | Beguiling Memory    |    4 |
+| The Tripled Heart                         | 4 grail    | Henavek  | Tridesma Hiera                  | Intuition           |    4 |
+| The Intimations of Skin                   | 8 grail    |          | Desires & Dissolutions          | Beguiling Memory    |    1 |
+| The Orchid Transfigurations: Birth        | 8 grail    |          | Resurgences & Emergences        | Satisfaction        |    3 |
+| Calicite Supplications                    | 8 grail    | Greek    | Tridesma Hiera                  | Satisfaction        |    4 |
+| The Rose of Nuriel                        | 10 grail   |          | The Great Sign and Great Scars  | Satisfaction        |    4 |
+|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+| The Ceaseless Tantra                      | 6 heart    | Sanskirt | Weaving & Knotworking           | Impulse             |    2 |
+| The Flayed Tantra                         | 8 heart    | Sanskrit | Maggephene Mysteries            | Storm               |    2 |
+| The Geminiad I                            | 10 heart   | Fucine   | Weaving & Knotworking           | Solace              |    2 |
+| The Instruments of the Heart              | 10 heart   |          | Drums & Dances                  | Cheerful Ditty      |    4 |
+|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+| Travelling at Night, Vol 1                | 4 knock    |          | Edicts Liminal                  |                     |    1 |
+| Travelling at Night, Vol 3                | 4 knock    |          | Door & Wall                     | Pattern             |    1 |
+| Advice on Containment                     | 4 knock    |          | Glassblowing & Vesselcrafting   | Pattern             |    2 |
+| The Treatise on Underplaces               | 4 knock    |          | Horns & Ivories                 | Fear                |      |
+| On the Winding Stair                      | 8 knock    | Ramsund  | Door & Wall                     | Pattern             |    2 |
+| Cardea's Delights                         | 8 knock    | Latin    | The Great Signs and Great Scars | Pattern             |    4 |
+| An Almanac of Entrances                   | 10 knock   |          | Edicts Liminal                  |                     |    2 |
+|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+| In the Malleary                           | 4 lantern  |          | Anbary & Lapidary               | Foresight           |    3 |
+| Bancroft Diaries                          | 4 lantern  | Latin    | Pyroglyphics                    | Foresight           |    2 |
+| Wainscot Histories                        | 6 lantern  |          | Auroral Contemplations          | Contradiction       |    3 |
+| The Locksmith's Dream: Incursus           | 6 lantern  |          | Glaziery & Lightsmithing        | Confounding Parable |    1 |
+| The Rose of Waznei                        | 8 lantern  | Greek    | Auroral Contemplations          | Revelation          |    3 |
+| The Watchful Tantra                       | 8 lantern  | Sanskrit | Purification & Exaltations      | Revelation          |    2 |
+| A Light in the Inkwell                    | 8 lantern  |          | Inks of Revelation              | Revelation          |    3 |
+| Unhatched Hymns                           | 10 lantern | Sabazine | Sacra Solis Invicti             |                     |    4 |
+|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+| The Viennese Conundra                     | 4 moon     |          | Wolf Stories                    | Fear                |    2 |
+| The 12 Letters on Consequence             | 4 moon     |          | Putrefactions & Calcinations    | Regret              |    1 |
+| What Does Not Bark                        | 4 moon     |          | Edicts Inviolable               | Storm               |    1 |
+| The Kerisham Portolan                     | 6 moon     |          | Sea Stories                     | Gossip              |    2 |
+| Malachite Supplications                   | 8 moon     | Greek    | Tridesma Hiera                  | Impulse             |    4 |
+| To a Pale Lady                            | 8 moon     |          | Pearl & Tide                    | Salt                |    2 |
+|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+| Kitling Ripe (and Other Stories)          | 6 moth     |          | Resurgences & Emergences        | Impulse             |    2 |
+| On Matthias and the Amethyst Imago: Loss  | 6 moth     |          | Solutions & Separations         | A Stolen Secret     |    5 |
+| The Fire-Circle Tantra                    | 8 moth     |          | Solutions & Separations         | Intuition           |    2 |
+| The Debate of Seven Cups                  | 10 moth    |          | Solutions & Separations         | Impulse             |    2 |
+|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+| Three Flowers Hath the Tree               | 4 nectar   |          | Leaves & Thorns                 | Gossip              |    3 |
+| De Horis Book 1                           | 4 nectar   |          | Rites of the Roots              | Impulse             |    3 |
+| Kitling Ripe's Tasty Treats               | 4 nectar   |          | Spices & Savours                | Satisfaction        |    3 |
+| The Most Sorroful End of the Lady Nonna   | 4 nectar   | Henavek  | Herbs & Infusions               | Impulse             |    4 |
+| Fekri's Herbary                           | 6 nectar   |          | Herbs & Infusions               | Satisfaction        |    3 |
+| Honey: The Comprehensive Guilde           | 6 nectar   |          | Insects & Nectars               | Contradiction       |    1 |
+| The Bee-keeper's Ends                     | 8 nectar   |          | Insects & Nectars               | Impulse             |    3 |
+| De Ratio Quercum                          | 8 nectar   |          | Insects & Nectars               | Earthsign           |      |
+|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+| The Book of the Centipede                 | 6 rose     | Greek    | Sand Stories                    |                     |    2 |
+| Just Verse                                | 6 rose     |          | Preliminal Meter                | Pattern             |    1 |
+| The Concursum Diaries                     | 8 rose     | Phrygian | Path & Pilgrim                  | Intuition           |    5 |
+| The Red Book of Brittany                  | 12 rose    |          | Inks of Power                   | Satisfaction        |    4 |
+|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+| The Queens of the Rivers                  | 4 scale    |          | Path & Pilgrim                  | Gossip              |    1 |
+| The Republic of Teeth                     | 6 scale    |          | Serpents & Venoms               | Intuition           |    3 |
+|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+| Seven Faces of Icarus                     | 4 sky      |          | Furs & Feathers                 | Fear                |    3 |
+| The Humours of a Gentleman                | 4 sky      |          | Sky Stories                     | Gossip              |    3 |
+| Perugian Diaries                          | 4 sky      |          | Strings & Songs                 | Cheerful Ditty      |    1 |
+| The Locksmith's Dream: Stolen Reflection  | 4 sky      |          | Watchman's Paradoxes            | Revelation          |    1 |
+| Travelling at Night, Vol 2                | 6 sky      |          | Sights & Sensations             | Solace              |    1 |
+| Against Vitruvius                         | 6 sky      |          | Lockworks & Clockworks          | Pattern             |    4 |
+| Damascene Traditions: House of Lethe      | 8 sky      |          | Sacra Limiae                    | Impulse             |    4 |
+| A Seventh Voice                           | 8 sky      |          | Preliminal Meter                | Confounding Parable |    3 |
+| De Motu Corporum Vetitorum                | 10 sky     |          | Ouranoscopy                     | Storm               |    2 |
+| The Other Eye of the Serpent              | 10 sky     |          | Anbary & Lapidary               | Pattern             |    4 |
+| The Invisible Opera (Unfinished)          | 12 sky     | Record   | Strings & Songs                 | Cheerful Ditty      |    1 |
+|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+| Annals of St Brandan's                    | 4 winter   |          | Inks of Containment             | Regret              |      |
+| An Introduction to Histories              | 4 winter   |          | Snow Stories                    | Hindsight           |    3 |
+| Chione at Abydos                          | 6 winter   |          | Snow Stories                    | Regret              |    3 |
+| The Five Letters on Memory                | 8 winter   |          | Rhyme & Remembrances            | Regret              |    2 |
+| Exercises in the Continuity of Self       | 8 winter   |          | Rhyme & Remembrances            | Hindsight           |    2 |
+| Operations of a Certain Finality          | 8 winter   |          | Putrefactions & Calcinations    | Hindsight           |    2 |
+|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+
+** Skills Table
+
+Organized by position in the [[*Tree of Wisdom]] starting at the top and working
+clockwise, first wisdom and then second wisdom.
+
+|-------------------------------+---------+-----------+---------------+--------+---------------+--------|
+| Skill Name                    | Primary | Secondary | Wisdom        | Soul   | Wisdom        | Soul   |
+|-------------------------------+---------+-----------+---------------+--------+---------------+--------|
+| Auroral Contemplations        | lantern | edge      | Illumination  | Phost  | Nyctodromy    | Fet    |
+| Discipline of the Scar        | edge    | lantern   | Illumination  | Phost  | Hushery       | Trist  |
+| Ericapaean                    | lantern | winter    | Illumination  |        | Hushery       |        |
+| Ragged Crossroads             | edge    | winter    | Illumination  | Phost  | Skolekosophy  | Shapt  |
+| Applebright Euphonies         | sky     | grail     | Illumination  | Mettle | Bosk          | Ereb   |
+| Cracktrack                    | nectar  | scale     | Illumination  | Phost  | Preservation  | Chor   |
+| Sacra Solis Invicti           | lantern | sky       | Illumination  |        | Holomachistry |        |
+| Pyroglyphics                  | forge   | lantern   | Illumination  | Mettle | Ithastry      | Wist   |
+| Glasiary & Lightsmithing      | lantern | sky       | Illumination  | Mettle | Ithastry      | Phost  |
+| Purifications & Exaltations   | sky     | lantern   | Illumination  | Mettle | Ithastry      |        |
+| Transformations & Liberations | forge   | moth      | Illumination  | Mettle | Ithastry      | Phost  |
+| Sights & Sensations           | sky     | winter    | Hushery       | Wist   | Nyctodromy    | Fet    |
+| Serpents & Venoms             | scale   | moon      | Hushery       | Trist  | Skolekosophy  | Shapt  |
+| Maggephene Mysteries          | moon    | heart     | Hushery       | Trist  | Preservation  | Health |
+| Snow Stories                  | winter  | moon      | Hushery       |        | Birdsong      |        |
+| Sacra Limiae                  | moth    | sky       | Hushery       | Trist  | Holomachistry | Mettle |
+| The Great Signs and Scars     | grail   | knock     | Hushery       | Trist  | Holomachistry |        |
+| Inks of Power                 | rose    | scale     | Hushery       |        | Holomachistry |        |
+| Fucine                        | heart   | knock     | Hushery       | Trist  | Ithastry      | Wist   |
+| Inks of Revelation            | lantern | moth      | Hushery       | Wist   | Ithastry      | Phost  |
+| Edicts Liminal                | moon    | heart     | Nyctodromy    | Fet    | Skolekosophy  | Ereb   |
+| Insects & Nectars             | nectar  | moon      | Nyctodromy    | Fet    | Bosk          | Ereb   |
+| Path & Pilgrim                | rose    | scale     | Nyctodromy    | Fet    | Birdsong      | Chor   |
+| Vak                           | knock   | rose      | Nyctodromy    | Fet    | Birdsong      | Chor   |
+| Strings & Songs               | sky     | heart     | Nyctodromy    |        | Birdsong      |        |
+| Door & Wall                   | knock   | forge     | Nyctodromy    | Shapt  | Horomachistry | Fet    |
+| Killasimi                     | winter  | moon      | Skolekosophy  |        | Bosk          |        |
+| Rhymes & Remembrances         | winter  | winter    | Skolekosophy  | Ereb   | Birdsong      | Trist  |
+| Wolf Stories                  | lantern | nectar    | Skolekosophy  | Ereb   | Birdsong      | Trist  |
+| Sand Stories                  | rose    | moon      | Skolekosophy  | Shapt  | Birdsong      | Trist  |
+| Lockworks & Clockworks        | knock   | sky       | Skolekosophy  | Shapt  | Ithastry      |        |
+| Solutions & Separations       | moth    | knock     | Skolekosophy  |        | Ithastry      |        |
+| Resurgences & Emergences      | moth    | grain     | Bosk          |        | Preservation  | Chor   |
+| Rites of the Roots            | moth    | moon      | Bosk          | Ereb   | Preservation  | Health |
+| Tridesma Hiera                | moon    | grail     | Bosk          | Ereb   | Preservation  | Health |
+| Herbs & Infusions             | grail   | moth      | Bosk          | Ereb   | Preservation  | Health |
+| Weaving & Knotworking         | heart   | moth      | Bosk          |        | Birdsong      |        |
+| Desires & Dissolutions        | grail   | moon      | Bosk          | Ereb   | Horomachistry | Mettle |
+| Drums & Dances                | heart   | nectar    | Bosk          |        | Holomachistry |        |
+| Spices & Savours              | nectar  | forge     | Bosk          | Health | Ithastry      | Wist   |
+| Ramsund                       | moth    | sky       | Birdsong      | Trist  | Preservation  | Chor   |
+| Sabazine                      | moon    | knock     | Birdsong      | Trist  | Holomachistry | Fet    |
+| Deep Mandaic                  | forge   | lantern   | Holomachistry | Mettle | Ithastry      | Phost  |
+| Bells & Brazieries            | forge   | sky       | Holomachistry | Mettle | Ithastry      | Wist   |
+| Anbary & Lapidary             | sky     | forge     | Holomachistry | Fet    | Ithastry      | Phost  |
+| Horns & Ivories               |         |           |               |        |               |        |
+| Ouranoscopy                   |         |           |               |        |               |        |
+|-------------------------------+---------+-----------+---------------+--------+---------------+--------|
+
+** Mood Table
+
+|-----------+-----------------------------------|
+| Mood Name | Base Soul Elements                |
+|-----------+-----------------------------------|
+| Duende    | 2 grail, 2 heart, 2 nectar        |
+| Epiphany  | 2 forge, 2 moon, 2 moth           |
+| Ubi Sunt  | 2 edge, 2 scale, 2 winter         |
+| Awen      | 2 lantern, 2 knock, 2 rose, 2 sky |
+|-----------+-----------------------------------|
+
+** Crafting Stations Table
+
+|-----------------------+-------------------------------+-------------------------------+---------------+-----------------------|
+| Name                  | Location                      | Soul Elements                 | ToW Attribute | Notes                 |
+|-----------------------+-------------------------------+-------------------------------+---------------+-----------------------|
+| Fireplaces            | Various                       |                               |               | Brew, Destroy         |
+| Plant bushes          | Various                       |                               |               | [[*Plants]]               |
+| Tea Service           | Keeper's Lodge                |                               |               | Craft cups of liquids |
+| Kitchen Cabinet       | Kitchen                       |                               |               | Craft cups of liquids |
+| Hush House Well       | Well                          | heart                         |               | Requires money        |
+| Desk: Reading Room    | Reading Room                  | heart, lantern, moon, sky     |               | Papers                |
+| Desk: Eva             | Watchman's Tower: 1st Floor   | edge, grail, moon, winter     |               | Papers                |
+| Desk: Pale            | Long Tower: Solomon's Study   | lantern, scale, sky, winter   |               | Papers                |
+| Desk: Ambrose         | Westcott Room                 | forge, knock, lantern, sky    |               | Papers                |
+| Desk: Natan           | Motley Tower: Regensburg Room | heart, knock, rose, moth      |               | Papers                |
+| Desk: Nonna           | Chapter House                 | lantern, grail, nectar, heart |               | Papers                |
+| Projector             | Patient's Lounge              | lantern, forge, grail, sky    |               | Film                  |
+| Thirza's Phonograph   | Severn Chamber                | knock, moon, heart, sky       |               | Records               |
+| Alchemist's Glassware | Fludd Gallery                 | winter, lantern, grail, forge |               | Several Substances    |
+| Necropsy Table        | Examination Room              | scale, heart, knock, winter   |               | Remains               |
+| Dispensary            | Motley Tower: Dispensary      | nectar, knock, moth, heart    |               | Flower, Remains       |
+| Organ                 | Nave of the Abbey             | sky, forge                    |               | Musical               |
+| Piano                 | Servants' Hall                | sky, moth                     |               | Musical               |
+| Loom                  | Servants' Hall                | heart, moth, nectar, rose     |               | Fabric                |
+| Foundry               | Foundry                       | knock, edge, scale, forge     |               | Glass, Metal, Stone   |
+| Grand Piano           | Mazarine Room                 | sky, rose                     |               | Musical               |
+| Sacred Spring         | Sacred Spring                 | nectar, grail, moon           |               | Omen, Remains         |
+| Pumps: Upper Level    | Upper Pump Room               | forge                         |               | Drains Water          |
+| Gullscry Workbench    | Gullscry Tower: Valentine's   | forge, sky, winter, knock     |               |                       |
+| Garden Dummy          | Practic Garden                | edge, heart, scale, winter    | Illumination  |                       |
+| Shrine: The Watchman  | Radiant Stair                 | lantern, rose, sky            | Illumination  |                       |
+| Solar Altar           | Nave of the Abbey             | sky, winter, lantern          | Hushery       |                       |
+| Hunter's Harp         | Windlit Gallery               | sky, scale                    | Nyctodromy    | Musical               |
+| Shrine: St. Januarius | Atrium                        | heart, knock, rose, sky       | Nyctodromy    |                       |
+| Mirrors               | Hall of Division              | grail, knock, winter, lantern | Nyctodromy    | Light                 |
+| Barber's Chair        | Motley Tower: Illopoly's Nook | grail, heart, moth            | Preservation  |                       |
+| Hallowed Drum         | Mazarine Room                 | heart, sky                    | Preservation  | Musical               |
+| Sunset Harp           | Mazarine Room                 | moon, sky                     | Birdsong      | Musical               |
+| Quivering Double Bass | Mazarine Room                 | grail, sky                    | Birdsong      | Musical               |
+| Great Clock           | Tower Clock                   | forge, knock, sky, winter     | Holomachistry |                       |
+| Telescope             | Observatory                   | forge, moon, rose, sky        | Holomachistry |                       |
+| Shrine: The Chancel   | Chancel of the Abbey          | moth, winter, edge            | Holomachistry |                       |
+| Shrine: The Madrugad  | Glorious Stair                | forge, sky, winter            | Ithastry      |                       |
+| Practice Equipment    | Duelling Hall                 | edge, scale, lantern, heart   | Ithastry      |                       |
+| Bells                 | Bells                         | sky, forge                    | Ithastry      |                       |
+|-----------------------+-------------------------------+-------------------------------+---------------+-----------------------|
+
+** Crafting Items Summary Table
+
+See [[*Craftable Items]] for details on the results of crafting.
+
+|-----------------------+------------------+-----------------------+---------------+---------------+----------------|
+| Craftable             | Priciple Req.    | Skill                 | Special       | Type          | Notes          |
+|-----------------------+------------------+-----------------------+---------------+---------------+----------------|
+| Westcott's Compounds  | 5 moth           |                       |               | Material      |                |
+| Isle-Water Pitcher    | 1 heart, 1 penny |                       |               | Beverage      | At Well        |
+| Witching Tisane       | 5 grail          |                       |               | Beverage      |                |
+| Thirza's Cordials     | 5 nectar         |                       |               | Beverage      |                |
+| Bitterblack Salts     | 5 forge          |                       |               | Pigment       |                |
+| Refulgin              | 5 lantern        |                       |               | Pigment       |                |
+| Salt-sign             | 5 rose           |                       |               | Mark          |                |
+| Midnight Mark         | 5 moon           |                       |               | Mark          |                |
+| Torgue's Cleansing    | 5 edge / 5 sky   |                       |               | Memory        |                |
+| Secret Threshold      | 5 knock          |                       |               | Memory        |                |
+| Bittersweet Certainty | 5 winter         |                       |               | Memory        | Desk:Eva       |
+| Iotic Essence         | 10 forge         | Anbary & Lapidary     | Liquid        | Pigment, Fuel | Alchemy Table  |
+| Orpiment Exultant     | 15 forge         | Anbary & Lapidary     | Iotic Essence | Ink           | Alchemy Table  |
+| Curious Hunch         | 10 knock         | The Great Signs/Scars | Memory        | Memory        | Necropsy Table |
+|-----------------------+------------------+-----------------------+---------------+---------------+----------------|
+
+** Craftable Items Tables
+
+Sometimes these are found in the house, more often they're purchased or crafted
+
+*** Edibles
+
+|-------------------+------------------------------------+----------+-------+-----|
+| Name              | Principles                         | Type     | Craft | Buy |
+|-------------------+------------------------------------+----------+-------+-----|
+| Dawn Coffee       | 1 nectar                           | Food     |       | X   |
+| Pillas-Oat Bread  | 1 nectar, 1 rose, 1 heart, 1 forge | Food     |       | X   |
+| Isle-Water        | 1 heart, 1 moon, 1 winter          | Beverage | X     |     |
+| Witching Tisane   | 2 grail, 1 heart                   | Beverage | X     |     |
+| Thirza's Cordials | 2 moth, 2 nectar                   | Beverage | X     |     |
+|-------------------+------------------------------------+----------+-------+-----|
+
+*** Fuels
+
+|---------------+--------------------+-------+-----|
+| Name          | Principles         | Craft | Buy |
+|---------------+--------------------+-------+-----|
+| Kerosene      |                    |       | ?   |
+| Paraffin      |                    |       | ?   |
+| Iotic Essence | 5 forge, 3 Lantern | X     |     |
+|---------------+--------------------+-------+-----|
+
+*** Inks
+
+|-------------------+-------------------------+-------+-----|
+| Name              | Principles              | Craft | Buy |
+|-------------------+-------------------------+-------+-----|
+| Orpiment Exultant | 7 forge, 7 heart, 7 sky | X     |     |
+|-------------------+-------------------------+-------+-----|
+
+*** Pigments
+
+|-------------------+------------+-------+-----|
+| Name              | Principles | Craft | Buy |
+|-------------------+------------+-------+-----|
+| Bitterblack Salts | 1 forge    | X     |     |
+| Refulgin          | 2 lantgern | X     |     |
+|-------------------+------------+-------+-----|
+
+*** Marks
+
+|---------------+----------------+-------+-----|
+| Name          | Principles     | Craft | Buy |
+|---------------+----------------+-------+-----|
+| Salt-Sign     | 2 moon, 2 rose | X     |     |
+| Midnight Mark | 2 moon, 1 moth | X     |     |
+|---------------+----------------+-------+-----|
+
+*** Miscellaneous Crafting Materials
+
+|---------------------+-----------------------------------------------+-------+-----|
+| Name                | Principles                                    | Craft | Buy |
+|---------------------+-----------------------------------------------+-------+-----|
+| Westcott's Compunds | 2 forge, 1 grail, 1 lantern, 1 moth, 1 nectar | X     |     |
+|---------------------+-----------------------------------------------+-------+-----|
+
+** Miscellaneous Items
+
+Items that may be found in Hush House, harvested, or sometimes ordered, that
+don't seem to fit anywhere else.
+
+*** Plants
+
+|--------------------+--------------------------------------+------------------------+----------------|
+| Name               | Principles                           | Location               | Season         |
+|--------------------+--------------------------------------+------------------------+----------------|
+| Moth Orchid        | 2 knock, 1 moth, 1 nectar            | Scent Garden           | Spring         |
+| Catsclaw           | 2 edge, 1 heart, 1 nectar            | Physic Garden          | Spring         |
+| Trumpeter's Lily   | 1 heart, 1 nectar, 2 skyf            | Physic Garden          | Summer         |
+| Agave Aeterna      | 2 lantern, 1 nectar, 1 winter        | Scent Garden           | Summer         |
+| Sea Holly          | 1 moon, 1 nectar, 1 winter           | St. Brandan's Cloister | Summer         |
+| Fragrant Chalice   | 2 grail, 1 nectar                    | Scent Garden           | Summer, Autumn |
+| Honeyscar Jasmine  | 2 forge, 1 nectar, 1 rose            | Scent Garden           | Autumn         |
+| Blue Crown         | 1 nectar, 2 sky, 2 winter            | St Brandan's Cloister  | Winter         |
+| Lenten Rose        | 1 grail, 1 nectar, 2 rose            | Scent Garden           | Winter         |
+| Pyrus Auricalcinus | 4 forge, 4 nectar                    | Scent Garden           | /Numa/           |
+| Aglaophotis        | 2 knock, 2 lantern, 1 nectar, 2 rose | Physic Garden          | /Numa/           |
+|--------------------+--------------------------------------+------------------------+----------------|
+
+*** Tools
+
+|--------------------------+----------------------------------------+------------------------------------|
+| Name                     | Location                               | Principles                         |
+|--------------------------+----------------------------------------+------------------------------------|
+| Mirrorscope              | Watchman's Tower: 1st Floor            | 1 lantern                          |
+| Astrolabe                | Watchman's Tower: 1st Floor            | 1 sky                              |
+| Bronze Knife             | Kitchen                                | 1 edge, 1 grail, 2 nectar 1 winter |
+| Kitchen Bowls            | Kitchen                                | 1 heart, 1 nectar                  |
+| Lunar Globe              | Map Room                               | 1 moon, 1 rose                     |
+| Serpent Styled Glass     | Motley Tower: Dispensary, Fludd Room   | 1 scale                            |
+| Shears of the Sisterhood | Motley Tower: Dispensary, Well Descent | 1 moth                             |
+| Snootle Jar              | Motley Tower: Dispensary               | 1 flantern, 1 moth                 |
+| Spice Scales             | Motley Tower: Dispensary               | 1 grail                            |
+| Mortar & Pestle          | Motley Tower: Dispensary               | 1 forge, 1 nectar                  |
+| Square                   | Foundry                                | 1 forge                            |
+| Saw                      | Foundry, Stores                        | 1 edge                             |
+| Cucurbit Burette         | Stores                                 | 1 edge                             |
+| Spanners                 | Windlit Gallery                        | 1 forge                            |
+| Mop & Bucket             | Church Tower                           | 1 heart                            |
+| Pale Mommet              | Infirmary                              | 1 grail, 2 heart, 2 moth, 1 scale  |
+| Watering Can             | Librarian's Quarters                   | 1 nectar                           |
+|--------------------------+----------------------------------------+------------------------------------|
+
+*** Wall Art
+
+|-----------------------------+----------+------------|
+| Name                        | Location | Principles |
+|-----------------------------+----------+------------|
+| 'The Foundation of the Sun' |          | 2 winter   |
+| 'As Above So Below'         |          | 1 sky      |
+|-----------------------------+----------+------------|
+
+*** Other Items
+
+|--------------------------+-------------------+------+--------+------------|
+| Name                     | Stats             | Type | Memory | Destroyed? |
+|--------------------------+-------------------+------+--------+------------|
+| Bust of Walter Dewulf    | 1 scale           |      | Sight  | No         |
+| Bust of Kitty Mazarine   | 1 grail           |      | Sight  | No         |
+| Bust of Natalia Brulleau | 1 edge            |      | Sight  | No         |
+| Bust of Gideon Dewulf    | 1 heart           |      | Sight  | No         |
+| Expansive Chair          | 1 grail, 1 moon   |      | Touch  | No         |
+| Umbrella Stand           | 1 heart, 1 sky    |      | Touch  | No         |
+| Shaving Mirror           | 1 lantern, 1 moth |      | Sight  | No         |
+| Granite Slab             | 1 forge, 1 scale  |      | Touch  | Yes        |
+|--------------------------+-------------------+------+--------+------------|
+
