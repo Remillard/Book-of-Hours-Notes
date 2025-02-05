@@ -1127,8 +1127,8 @@ crafting.
 | Secret Threshold      | 5 knock          |                       |               | [[*Memory Table][Memory]]        |                |
 | Bittersweet Certainty | 5 winter         |                       |               | [[*Memory Table][Memory]]        | Desk:Eva       |
 | Curious Hunch         | 10 knock         | The Great Signs/Scars | Memory        | [[*Memory Table][Memory]]        | Necropsy Table |
-| Iotic Essence         | 10 forge         | Anbary & Lapidary     | Liquid        | [[*Pigments][Pigment]], [[*Fuels][Fuel]] | Alchemy Table  |
-| Orpiment Exultant     | 15 forge         | Anbary & Lapidary     | Iotic Essence | [[*Inks][Ink]]           | Alchemy Table  |
+| /Iotic/ Essence         | 10 forge         | Anbary & Lapidary     | Liquid        | [[*Pigments][Pigment]], [[*Fuels][Fuel]] | Alchemy Table  |
+| /Orpiment Exultant/     | 15 forge         | Anbary & Lapidary     | Iotic Essence | [[*Inks][Ink]]           | Alchemy Table  |
 |-----------------------+------------------+-----------------------+---------------+---------------+----------------|
 
 ** Craftable Items Tables
@@ -1154,16 +1154,16 @@ Sometimes these are found in the house, more often they're purchased or crafted
 |---------------+--------------------+-------+-----|
 | Kerosene      |                    |       | ?   |
 | Paraffin      |                    |       | ?   |
-| Iotic Essence | 5 forge, 3 Lantern | X     |     |
+| /Iotic/ Essence | 5 forge, 3 Lantern | X     |     |
 |---------------+--------------------+-------+-----|
 
 *** Inks
 
-|-------------------+-------------------------+-------+-----|
-| Name              | Principles              | Craft | Buy |
-|-------------------+-------------------------+-------+-----|
-| Orpiment Exultant | 7 forge, 7 heart, 7 sky | X     |     |
-|-------------------+-------------------------+-------+-----|
+|---------------------+-------------------------+-------+-----|
+| Name                | Principles              | Craft | Buy |
+|---------------------+-------------------------+-------+-----|
+| /Orpiment Exultant/ | 7 forge, 7 heart, 7 sky | X     |     |
+|---------------------+-------------------------+-------+-----|
 
 *** Pigments
 
