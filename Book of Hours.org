@@ -231,8 +231,6 @@ note are further discussed in [[*Inventory Items]].
 
 **** Money
 
-
-
 Used for hiring laborers, buying items by post, etc.  Uses old British coin
 system so a table of names and values is shown below.  When money is used to pay
 for something, change will automatically be created.  The organize inventory

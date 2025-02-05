@@ -9,3 +9,9 @@ answers should probably see the very complete Wiki.)
 
 So, this document has minor to major spoilers, but probably not as many as if
 you read the Wiki.  Be warned.
+
+Also a minor note to anyone investigating, while GitHub blessedly DOES render
+~org-mode~ markup very well in general, the links in the document will NOT work at
+GitHub.  They will work in Emacs.  Still it's not THAT long a document, and if
+something is referencing a table, it's basically down at the end of the document
+so scroll away.
