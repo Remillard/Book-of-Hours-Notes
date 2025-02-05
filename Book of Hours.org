@@ -1066,7 +1066,7 @@ These sometimes pop up during a book mastery challenge "bonus round".
 | Name                  | Location                      | Soul Elements                 | ToW Attribute | Notes                 |
 |-----------------------+-------------------------------+-------------------------------+---------------+-----------------------|
 | Fireplaces            | Various                       |                               |               | Brew, Destroy         |
-| Plant bushes          | Various                       |                               |               | [[*Plants]]               |
+| Plant bushes          | Various                       |                               |               | [[*Plants][Plants]]                |
 | Tea Service           | Keeper's Lodge                |                               |               | Craft cups of liquids |
 | Kitchen Cabinet       | Kitchen                       |                               |               | Craft cups of liquids |
 | Hush House Well       | Well                          | heart                         |               | Requires money        |
