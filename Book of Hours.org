@@ -679,8 +679,8 @@ barons and these may be placed in the stairway in the appropriate niche.
    - He obtained the island in 1536 after St. Brandan's Abbey was dissolved.
    - Had been a mercenary captain under Maaren van Rossum, however left after
      the sack of the Hague.
-   - Trained as a priest.
-2. Thomas Dewulf? Giles Dewulf (?) Probably Giles
+   - Trained as a ffrpriest.
+2. _Thomas Dewulf_
 3. _Walter Dewulf_
    - "Walter Dewulf, who found Hush House a draughty castle and left it a
      stately home, but who will always be remembered for his cowardice, his
@@ -870,6 +870,7 @@ Organized by the number of principles each memory possesses.
 | Revelation            | 2 lantern                | Book                               |
 | Blindsight            | 2 winter                 | Book                               |
 | Torgue's Cleansing    | 2 edge                   | Crafting                           |
+| Winning Move          | 3 edge                   | Crafting, Evolve                   |
 | Contradiction         | 2 edge, 1 moon           | Book                               |
 | Foresight             | 2 forge, 1 lantern       | Book                               |
 | Satisfaction          | 2 grail, 1 heart         | Book                               |
@@ -884,7 +885,7 @@ Organized by the number of principles each memory possesses.
 | Regret                | 2 winter, 1 forge        | Book, Failing a book               |
 | Secret Threshold      | 2 knock, 1 rose          | Book                               |
 | Bittersweet Certainty | 2 winter, 1 lantern      | Book, Crafting                     |
-| Beguiling Memory      | 2 grail, 2 sky           | Book                               |
+| Beguiling Melody      | 2 grail, 2 sky           | Book                               |
 | Storm                 | 2 heart, 2 sky           | Book                               |
 | Intuition             | 2 moon, 2 rose           | Book                               |
 | Savage Hymn           | 2 scale, 2 sky           | Book                               |
@@ -900,107 +901,110 @@ Organized by the number of principles each memory possesses.
 
 Organized by the Principle mystery challenge.
 
-|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
-| Title                                     | Mystery    | Special  | Skill                           | Reading Memory      | Cost |
-|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
-| Recordings from the Althiban Abyss        | 4 edge     | Record   | Stone Stories                   |                     |      |
-| The Sun's Lament                          | 4 edge     |          | Ragged Crossroads               | Fear                |    4 |
-| De Bellis Murorum                         | 6 edge     |          | Disciplines of the Scar         | Contradiction       |    2 |
-| The High Traditions of the Noble Endeavor | 6 edge     |          | Disciplines of the Hammer       | Foresight           |    3 |
-|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
-| Sunset Passages                           | 4 forge    | Latin    | Sacra Solis Invicti             | Revelation          |    5 |
-| Vinzant's Minglings                       | 4 forge    |          | Bells & Brazieries              | Foresight           |    3 |
-| Journal of Walter Dewulf                  | 6 forge    |          | Door & Wall                     | Foresight           |    3 |
-| The Book of Cinders                       | 6 forge    |          | Pyroglyphics                    | Foresight           |    2 |
-| Ambrosial!                                | 8 forge    |          | Spices & Savours                | Impulse             |    2 |
-| A Shape in Smoke                          | 8 forge    |          | Pyroglyphics                    | Revelation          |    3 |
-| The Incandescent Tantra                   | 8 forge    | Sanskrit | Transformations & Liberations   | Foresight           |    2 |
-| The Temptations of Architecture           | 10 forge   |          | Door & Wall                     | Secret Threshold    |    2 |
-|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
-| The Skeleton Songs                        | 4 grail    |          | Resurgences & Emergences        | Beguiling Memory    |    1 |
-| The Orchid Transfigurations: A Feast      | 4 grail    | Latin    | Desires & Dissolutions          | Intuition           |    3 |
-| The Wind's Ruin                           | 4 grail    |          | Applebright Euphonies           | Beguiling Memory    |    4 |
-| The Tripled Heart                         | 4 grail    | Henavek  | Tridesma Hiera                  | Intuition           |    4 |
-| The Intimations of Skin                   | 8 grail    |          | Desires & Dissolutions          | Beguiling Memory    |    1 |
-| The Orchid Transfigurations: Birth        | 8 grail    |          | Resurgences & Emergences        | Satisfaction        |    3 |
-| Calicite Supplications                    | 8 grail    | Greek    | Tridesma Hiera                  | Satisfaction        |    4 |
-| The Rose of Nuriel                        | 10 grail   |          | The Great Sign and Great Scars  | Satisfaction        |    4 |
-|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
-| The Ceaseless Tantra                      | 6 heart    | Sanskirt | Weaving & Knotworking           | Impulse             |    2 |
-| The Flayed Tantra                         | 8 heart    | Sanskrit | Maggephene Mysteries            | Storm               |    2 |
-| Rapt in the King                          | 8 heart    |          | Drums & Dances                  | Earthsign           |      |
-| The Geminiad I                            | 10 heart   | Fucine   | Weaving & Knotworking           | Solace              |    2 |
-| The Instruments of the Heart              | 10 heart   |          | Drums & Dances                  | Cheerful Ditty      |    4 |
-| Those Who Do Not Sleep                    | 12 heart   | Fucine   |                                 |                     |      |
-|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
-| Travelling at Night, Vol 1                | 4 knock    |          | Edicts Liminal                  |                     |    1 |
-| Travelling at Night, Vol 3                | 4 knock    |          | Door & Wall                     | Pattern             |    1 |
-| Advice on Containment                     | 4 knock    |          | Glassblowing & Vesselcrafting   | Pattern             |    2 |
-| The Treatise on Underplaces               | 4 knock    |          | Horns & Ivories                 | Fear                |      |
-| On the Winding Stair                      | 8 knock    | Ramsund  | Door & Wall                     | Pattern             |    2 |
-| Cardea's Delights                         | 8 knock    | Latin    | The Great Signs and Great Scars | Pattern             |    4 |
-| An Almanac of Entrances                   | 10 knock   |          | Edicts Liminal                  |                     |    2 |
-| The Grand Passage of the Hours            | 12 knock   | Vak      | Door & Wall                     | Pattern             |    5 |
-|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
-| In the Malleary                           | 4 lantern  |          | Anbary & Lapidary               | Foresight           |    3 |
-| Bancroft Diaries                          | 4 lantern  | Latin    | Pyroglyphics                    | Foresight           |    2 |
-| Wainscot Histories                        | 6 lantern  |          | Auroral Contemplations          | Contradiction       |    3 |
-| The Locksmith's Dream: Incursus           | 6 lantern  |          | Glaziery & Lightsmithing        | Confounding Parable |    1 |
-| The Rose of Waznei                        | 8 lantern  | Greek    | Auroral Contemplations          | Revelation          |    3 |
-| The Watchful Tantra                       | 8 lantern  | Sanskrit | Purification & Exaltations      | Revelation          |    2 |
-| A Light in the Inkwell                    | 8 lantern  |          | Inks of Revelation              | Revelation          |    3 |
-| Unhatched Hymns                           | 10 lantern | Sabazine | Sacra Solis Invicti             | Savage Hymn         |    4 |
-|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
-| The Viennese Conundra                     | 4 moon     |          | Wolf Stories                    | Fear                |    2 |
-| The 12 Letters on Consequence             | 4 moon     |          | Putrefactions & Calcinations    | Regret              |    1 |
-| What Does Not Bark                        | 4 moon     |          | Edicts Inviolable               | Storm               |    1 |
-| The Kerisham Portolan                     | 6 moon     |          | Sea Stories                     | Gossip              |    2 |
-| Malachite Supplications                   | 8 moon     | Greek    | Tridesma Hiera                  | Impulse             |    4 |
-| To a Pale Lady                            | 8 moon     |          | Pearl & Tide                    | Salt                |    2 |
-|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
-| Kitling Ripe (and Other Stories)          | 6 moth     |          | Resurgences & Emergences        | Impulse             |    2 |
-| On Matthias and the Amethyst Imago: Loss  | 6 moth     |          | Solutions & Separations         | A Stolen Secret     |    5 |
-| The Fire-Circle Tantra                    | 8 moth     |          | Solutions & Separations         | Intuition           |    2 |
-| The Debate of Seven Cups                  | 10 moth    |          | Solutions & Separations         | Impulse             |    2 |
-|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
-| Three Flowers Hath the Tree               | 4 nectar   |          | Leaves & Thorns                 | Gossip              |    3 |
-| De Horis Book 1                           | 4 nectar   |          | Rites of the Roots              | Impulse             |    3 |
-| Kitling Ripe's Tasty Treats               | 4 nectar   |          | Spices & Savours                | Satisfaction        |    3 |
-| The Most Sorroful End of the Lady Nonna   | 4 nectar   | Henavek  | Herbs & Infusions               | Impulse             |    4 |
-| Fekri's Herbary                           | 6 nectar   |          | Herbs & Infusions               | Satisfaction        |    3 |
-| Honey: The Comprehensive Guilde           | 6 nectar   |          | Insects & Nectars               | Contradiction       |    1 |
-| The Bee-keeper's Ends                     | 8 nectar   |          | Insects & Nectars               | Impulse             |    3 |
-| De Ratio Quercum                          | 8 nectar   |          | Insects & Nectars               | Earthsign           |      |
-|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
-| The Book of the Centipede                 | 6 rose     | Greek    | Sand Stories                    |                     |    2 |
-| Just Verse                                | 6 rose     |          | Preliminal Meter                | Pattern             |    1 |
-| The Concursum Diaries                     | 8 rose     | Phrygian | Path & Pilgrim                  | Intuition           |    5 |
-| The Radical Measure                       | 10 rose    |          | Preliminal Meter                | Pattern             |    2 |
-| The Red Book of Brittany                  | 12 rose    |          | Inks of Power                   | Satisfaction        |    4 |
-|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
-| The Queens of the Rivers                  | 4 scale    |          | Path & Pilgrim                  | Gossip              |    1 |
-| The Republic of Teeth                     | 6 scale    |          | Serpents & Venoms               | Intuition           |    3 |
-|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
-| Seven Faces of Icarus                     | 4 sky      |          | Furs & Feathers                 | Fear                |    3 |
-| The Humours of a Gentleman                | 4 sky      |          | Sky Stories                     | Gossip              |    3 |
-| Perugian Diaries                          | 4 sky      |          | Strings & Songs                 | Cheerful Ditty      |    1 |
-| The Locksmith's Dream: Stolen Reflection  | 4 sky      |          | Watchman's Paradoxes            | Revelation          |    1 |
-| Travelling at Night, Vol 2                | 6 sky      |          | Sights & Sensations             | Solace              |    1 |
-| Against Vitruvius                         | 6 sky      |          | Lockworks & Clockworks          | Pattern             |    4 |
-| A True History of Valentine Dewulf        | 6 sky      |          | Furs & Feathers                 | Fear                |    3 |
-| Damascene Traditions: House of Lethe      | 8 sky      |          | Sacra Limiae                    | Impulse             |    4 |
-| A Seventh Voice                           | 8 sky      |          | Preliminal Meter                | Confounding Parable |    3 |
-| De Motu Corporum Vetitorum                | 10 sky     |          | Ouranoscopy                     | Storm               |    2 |
-| The Other Eye of the Serpent              | 10 sky     |          | Anbary & Lapidary               | Pattern             |    4 |
-| The Invisible Opera (Unfinished)          | 12 sky     | Record   | Strings & Songs                 | Cheerful Ditty      |    1 |
-|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
-| Annals of St Brandan's                    | 4 winter   |          | Inks of Containment             | Regret              |      |
-| An Introduction to Histories              | 4 winter   |          | Snow Stories                    | Hindsight           |    3 |
-| Chione at Abydos                          | 6 winter   |          | Snow Stories                    | Regret              |    3 |
-| The Five Letters on Memory                | 8 winter   |          | Rhyme & Remembrances            | Regret              |    2 |
-| Exercises in the Continuity of Self       | 8 winter   |          | Rhyme & Remembrances            | Hindsight           |    2 |
-| Operations of a Certain Finality          | 8 winter   |          | Putrefactions & Calcinations    | Hindsight           |    2 |
-|-------------------------------------------+------------+----------+---------------------------------+---------------------+------|
+|-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
+| Title                                     | Mystery    | Special   | Skill                           | Reading Memory      | Cost |
+|-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
+| De Horis Book 3                           | 4 edge     | Latin     | Disciplines of the Scar         | Contradiction       |    3 |
+| Recordings from the Althiban Abyss        | 4 edge     | Record    | Stone Stories                   |                     |      |
+| The Sun's Lament                          | 4 edge     |           | Ragged Crossroads               | Fear                |    4 |
+| De Bellis Murorum                         | 6 edge     |           | Disciplines of the Scar         | Contradiction       |    2 |
+| The High Traditions of the Noble Endeavor | 6 edge     |           | Disciplines of the Hammer       | Foresight           |    3 |
+|-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
+| Sunset Passages                           | 4 forge    | Latin     | Sacra Solis Invicti             | Revelation          |    5 |
+| Vinzant's Minglings                       | 4 forge    |           | Bells & Brazieries              | Foresight           |    3 |
+| Journal of Walter Dewulf                  | 6 forge    |           | Door & Wall                     | Foresight           |    3 |
+| The Book of Cinders                       | 6 forge    |           | Pyroglyphics                    | Foresight           |    2 |
+| Ambrosial!                                | 8 forge    |           | Spices & Savours                | Impulse             |    2 |
+| A Shape in Smoke                          | 8 forge    |           | Pyroglyphics                    | Revelation          |    3 |
+| The Incandescent Tantra                   | 8 forge    | Sanskrit  | Transformations & Liberations   | Foresight           |    2 |
+| The Temptations of Architecture           | 10 forge   |           | Door & Wall                     | Secret Threshold    |    2 |
+|-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
+| The Skeleton Songs                        | 4 grail    |           | Resurgences & Emergences        | Beguiling Memory    |    1 |
+| The Orchid Transfigurations: A Feast      | 4 grail    | Latin     | Desires & Dissolutions          | Intuition           |    3 |
+| The Wind's Ruin                           | 4 grail    |           | Applebright Euphonies           | Beguiling Memory    |    4 |
+| The Tripled Heart                         | 4 grail    | Henavek   | Tridesma Hiera                  | Intuition           |    4 |
+| The Intimations of Skin                   | 8 grail    |           | Desires & Dissolutions          | Beguiling Memory    |    1 |
+| The Orchid Transfigurations: Birth        | 8 grail    |           | Resurgences & Emergences        | Satisfaction        |    3 |
+| Calicite Supplications                    | 8 grail    | Greek     | Tridesma Hiera                  | Satisfaction        |    4 |
+| The Rose of Nuriel                        | 10 grail   |           | The Great Sign and Great Scars  | Satisfaction        |    4 |
+|-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
+| The Ceaseless Tantra                      | 6 heart    | Sanskirt  | Weaving & Knotworking           | Impulse             |    2 |
+| The Flayed Tantra                         | 8 heart    | Sanskrit  | Maggephene Mysteries            | Storm               |    2 |
+| Rapt in the King                          | 8 heart    |           | Drums & Dances                  | Earthsign           |      |
+| Two Wombs, One Heart                      | 8 heart    | Killasimi | Stitching & Binding             | Satisfaction        |    2 |
+| The Geminiad I                            | 10 heart   | Fucine    | Weaving & Knotworking           | Solace              |    2 |
+| The Instruments of the Heart              | 10 heart   |           | Drums & Dances                  | Cheerful Ditty      |    4 |
+| Those Who Do Not Sleep                    | 12 heart   | Fucine    | Surgeries & Exsanguinations     | Storm               |    5 |
+|-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
+| Travelling at Night, Vol 1                | 4 knock    |           | Edicts Liminal                  |                     |    1 |
+| Travelling at Night, Vol 3                | 4 knock    |           | Door & Wall                     | Pattern             |    1 |
+| Advice on Containment                     | 4 knock    |           | Glassblowing & Vesselcrafting   | Pattern             |    2 |
+| The Treatise on Underplaces               | 4 knock    |           | Horns & Ivories                 | Fear                |      |
+| On the Winding Stair                      | 8 knock    | Ramsund   | Door & Wall                     | Pattern             |    2 |
+| Cardea's Delights                         | 8 knock    | Latin     | The Great Signs and Great Scars | Pattern             |    4 |
+| An Almanac of Entrances                   | 10 knock   |           | Edicts Liminal                  |                     |    2 |
+| The Grand Passage of the Hours            | 12 knock   | Vak       | Door & Wall                     | Pattern             |    5 |
+|-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
+| In the Malleary                           | 4 lantern  |           | Anbary & Lapidary               | Foresight           |    3 |
+| Bancroft Diaries                          | 4 lantern  | Latin     | Pyroglyphics                    | Foresight           |    2 |
+| Wainscot Histories                        | 6 lantern  |           | Auroral Contemplations          | Contradiction       |    3 |
+| The Locksmith's Dream: Incursus           | 6 lantern  |           | Glaziery & Lightsmithing        | Confounding Parable |    1 |
+| The Rose of Waznei                        | 8 lantern  | Greek     | Auroral Contemplations          | Revelation          |    3 |
+| The Watchful Tantra                       | 8 lantern  | Sanskrit  | Purification & Exaltations      | Revelation          |    2 |
+| A Light in the Inkwell                    | 8 lantern  |           | Inks of Revelation              | Revelation          |    3 |
+| Unhatched Hymns                           | 10 lantern | Sabazine  | Sacra Solis Invicti             | Savage Hymn         |    4 |
+|-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
+| The Viennese Conundra                     | 4 moon     |           | Wolf Stories                    | Fear                |    2 |
+| The 12 Letters on Consequence             | 4 moon     |           | Putrefactions & Calcinations    | Regret              |    1 |
+| What Does Not Bark                        | 4 moon     |           | Edicts Inviolable               | Storm               |    1 |
+| The Kerisham Portolan                     | 6 moon     |           | Sea Stories                     | Gossip              |    2 |
+| Malachite Supplications                   | 8 moon     | Greek     | Tridesma Hiera                  | Impulse             |    4 |
+| To a Pale Lady                            | 8 moon     |           | Pearl & Tide                    | Salt                |    2 |
+|-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
+| Kitling Ripe (and Other Stories)          | 6 moth     |           | Resurgences & Emergences        | Impulse             |    2 |
+| On Matthias and the Amethyst Imago: Loss  | 6 moth     |           | Solutions & Separations         | A Stolen Secret     |    5 |
+| The Fire-Circle Tantra                    | 8 moth     |           | Solutions & Separations         | Intuition           |    2 |
+| The Debate of Seven Cups                  | 10 moth    |           | Solutions & Separations         | Impulse             |    2 |
+|-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
+| Three Flowers Hath the Tree               | 4 nectar   |           | Leaves & Thorns                 | Gossip              |    3 |
+| De Horis Book 1                           | 4 nectar   |           | Rites of the Roots              | Impulse             |    3 |
+| Kitling Ripe's Tasty Treats               | 4 nectar   |           | Spices & Savours                | Satisfaction        |    3 |
+| The Most Sorroful End of the Lady Nonna   | 4 nectar   | Henavek   | Herbs & Infusions               | Impulse             |    4 |
+| Fekri's Herbary                           | 6 nectar   |           | Herbs & Infusions               | Satisfaction        |    3 |
+| Honey: The Comprehensive Guilde           | 6 nectar   |           | Insects & Nectars               | Contradiction       |    1 |
+| The Bee-keeper's Ends                     | 8 nectar   |           | Insects & Nectars               | Impulse             |    3 |
+| De Ratio Quercum                          | 8 nectar   |           | Insects & Nectars               | Earthsign           |      |
+|-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
+| The Book of the Centipede                 | 6 rose     | Greek     | Sand Stories                    |                     |    2 |
+| Just Verse                                | 6 rose     |           | Preliminal Meter                | Pattern             |    1 |
+| The Concursum Diaries                     | 8 rose     | Phrygian  | Path & Pilgrim                  | Intuition           |    5 |
+| The Radical Measure                       | 10 rose    |           | Preliminal Meter                | Pattern             |    2 |
+| The Red Book of Brittany                  | 12 rose    |           | Inks of Power                   | Satisfaction        |    4 |
+| The History of Inks                       | 14 rose    | Fucine    | Inks of Power                   | Intuition           |    4 |
+|-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
+| The Queens of the Rivers                  | 4 scale    |           | Path & Pilgrim                  | Gossip              |    1 |
+| The Republic of Teeth                     | 6 scale    |           | Serpents & Venoms               | Intuition           |    3 |
+|-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
+| Seven Faces of Icarus                     | 4 sky      |           | Furs & Feathers                 | Fear                |    3 |
+| The Humours of a Gentleman                | 4 sky      |           | Sky Stories                     | Gossip              |    3 |
+| Perugian Diaries                          | 4 sky      |           | Strings & Songs                 | Cheerful Ditty      |    1 |
+| The Locksmith's Dream: Stolen Reflection  | 4 sky      |           | Watchman's Paradoxes            | Revelation          |    1 |
+| Travelling at Night, Vol 2                | 6 sky      |           | Sights & Sensations             | Solace              |    1 |
+| Against Vitruvius                         | 6 sky      |           | Lockworks & Clockworks          | Pattern             |    4 |
+| A True History of Valentine Dewulf        | 6 sky      |           | Furs & Feathers                 | Fear                |    3 |
+| Damascene Traditions: House of Lethe      | 8 sky      |           | Sacra Limiae                    | Impulse             |    4 |
+| A Seventh Voice                           | 8 sky      |           | Preliminal Meter                | Confounding Parable |    3 |
+| De Motu Corporum Vetitorum                | 10 sky     |           | Ouranoscopy                     | Storm               |    2 |
+| The Other Eye of the Serpent              | 10 sky     |           | Anbary & Lapidary               | Pattern             |    4 |
+| The Invisible Opera (Unfinished)          | 12 sky     | Record    | Strings & Songs                 | Cheerful Ditty      |    1 |
+|-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
+| Annals of St Brandan's                    | 4 winter   |           | Inks of Containment             | Regret              |      |
+| An Introduction to Histories              | 4 winter   |           | Snow Stories                    | Hindsight           |    3 |
+| Chione at Abydos                          | 6 winter   |           | Snow Stories                    | Regret              |    3 |
+| The Five Letters on Memory                | 8 winter   |           | Rhyme & Remembrances            | Regret              |    2 |
+| Exercises in the Continuity of Self       | 8 winter   |           | Rhyme & Remembrances            | Hindsight           |    2 |
+| Operations of a Certain Finality          | 8 winter   |           | Putrefactions & Calcinations    | Hindsight           |    2 |
+|-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
 
 ** Skills Table
 
@@ -1050,6 +1054,7 @@ clockwise, first wisdom and then second wisdom.
 | Desires & Dissolutions        | grail   | moon      | Bosk          | Ereb   | Horomachistry | Mettle |
 | Drums & Dances                | heart   | nectar    | Bosk          |        | Holomachistry |        |
 | Spices & Savours              | nectar  | forge     | Bosk          | Health | Ithastry      | Wist   |
+| Stitching & Binding       c   | sky     | heart     | Preservation  |        | Ithastry      |        |
 | Ramsund                       | moth    | sky       | Birdsong      | Trist  | Preservation  | Chor   |
 | Sabazine                      | moon    | knock     | Birdsong      | Trist  | Holomachistry | Fet    |
 | Deep Mandaic                  | forge   | lantern   | Holomachistry | Mettle | Ithastry      | Phost  |
@@ -1086,12 +1091,14 @@ These sometimes pop up during a book mastery challenge "bonus round".
 | Tea Service           | Keeper's Lodge                |                               |               | Craft cups of liquids |
 | Kitchen Cabinet       | Kitchen                       |                               |               | Craft cups of liquids |
 | Hush House Well       | Well                          | heart                         |               | Requires money        |
+|                       |                               |                               |               |                       |
 | Desk: Reading Room    | Reading Room                  | heart, lantern, moon, sky     |               | Papers                |
 | Desk: Eva             | Watchman's Tower: 1st Floor   | edge, grail, moon, winter     |               | Papers                |
 | Desk: Pale            | Long Tower: Solomon's Study   | lantern, scale, sky, winter   |               | Papers                |
 | Desk: Ambrose         | Westcott Room                 | forge, knock, lantern, sky    |               | Papers                |
 | Desk: Natan           | Motley Tower: Regensburg Room | heart, knock, rose, moth      |               | Papers                |
 | Desk: Nonna           | Chapter House                 | lantern, grail, nectar, heart |               | Papers                |
+|                       |                               |                               |               |                       |
 | Projector             | Patient's Lounge              | lantern, forge, grail, sky    |               | Film                  |
 | Thirza's Phonograph   | Severn Chamber                | knock, moon, heart, sky       |               | Records               |
 | Alchemist's Glassware | Fludd Gallery                 | winter, lantern, grail, forge |               | Several Substances    |
@@ -1106,6 +1113,7 @@ These sometimes pop up during a book mastery challenge "bonus round".
 | Pumps: Upper Level    | Upper Pump Room               | forge                         |               | Drains Water          |
 | Cage                  | Gullscry Tower: Eales'        | moth, moon, knock, scale      |               |                       |
 | Gullscry Workbench    | Gullscry Tower: Valentine's   | forge, sky, winter, knock     |               |                       |
+|                       |                               |                               |               |                       |
 | Garden Dummy          | Practic Garden                | edge, heart, scale, winter    | Illumination  |                       |
 | Shrine: The Watchman  | Radiant Stair                 | lantern, rose, sky            | Illumination  |                       |
 | Solar Altar           | Nave of the Abbey             | sky, winter, lantern          | Hushery       |                       |
@@ -1122,6 +1130,7 @@ These sometimes pop up during a book mastery challenge "bonus round".
 | Shrine: The Madrugad  | Glorious Stair                | forge, sky, winter            | Ithastry      |                       |
 | Practice Equipment    | Duelling Hall                 | edge, scale, lantern, heart   | Ithastry      |                       |
 | Bells                 | Bells                         | sky, forge                    | Ithastry      |                       |
+| Nocturnary            | Night Gallery                 | winter, nectar, grail, moon   | Skolekosophy  |                       |
 |-----------------------+-------------------------------+-------------------------------+---------------+-----------------------|
 
 ** Crafting Items Summary Table
@@ -1129,39 +1138,82 @@ These sometimes pop up during a book mastery challenge "bonus round".
 See the subsection [[*Craftable Items Tables][Craftable Items Tables]] for details on the results of
  crafting.
 
-|-------------------------+------------------+-----------------------------+---------------+---------------+----------------|
-| Craftable               | Priciple Req.    | Skill                       | Special       | Type          | Notes          |
-|-------------------------+------------------+-----------------------------+---------------+---------------+----------------|
-| Isle-Water Pitcher      | 1 heart, 1 penny |                             |               | [[*Beverages & Edibles][Beverage]]      | At Well        |
-| Witching Tisane         | 5 grail          | Desires & Dissolutions      |               | [[*Beverages & Edibles][Beverage]]      |                |
-| ?                       | 10 grail         | Desires & Dissolutions      | Flower        |               |                |
-| Thirza's Cordials       | 5 nectar         | Spices & Savours            |               | [[*Beverages & Edibles][Beverage]]      |                |
-| Pyrus Auricalcinus      | 10 nectar        | Spices & Savours            | Wood          | [[*Plants][Plant]]         |                |
-| Tanglebrag              | 5 moth           | Resurgences & Emergences    |               |               | Desk: Eva      |
-| Westcott's Compounds    | 5 moth           | Sacra Limiae                |               | [[*Materials][Material]]      |                |
-| Nameday Riddle          | 10 moth          | Sacra Limiae                | Memory        | [[*Memory Table][Memory]]        |                |
-| Bitterblack Salts       | 5 forge          |                             |               | [[*Pigments][Pigment]]       |                |
-| Refulgin                | 5 lantern        |                             |               | [[*Pigments][Pigment]]       |                |
-| Salt-sign               | 5 rose           | Path & Pilgrim              |               | [[*Marks][Mark]]          | Grand Piano    |
-| Enduringr Reflection    | 10 rose          | Path & Pilgrim              | Memory        | [[*Memory Table][Memory]]        | Grand Piano    |
-| Midnight Mark           | 5 moon           | Wolf Stories                |               | [[*Marks][Mark]]          | Telescope      |
-| ?                       | 10 moon          | Wolf Stories                | Remains       |               |                |
-| Torgue's Cleansing      | 5 sky            | Purifications & Exaltations |               | [[*Memory Table][Memory]]        | Organ          |
-| Ascendant Harmony       | 10 sky           | Purifications & Exaltations |               |               | Organ          |
-| Secret Threshold        | 5 knock          |                             |               | [[*Memory Table][Memory]]        |                |
-| Bittersweet Certainty   | 5 winter         |                             |               | [[*Memory Table][Memory]]        | Desk:Eva       |
-| Curious Hunch           | 10 knock         | The Great Signs/Scars       | Memory        | [[*Memory Table][Memory]]        | Necropsy Table |
-| /Iotic/ Essence           | 10 forge         | Anbary & Lapidary           | Liquid        | [[*Pigments][Pigment]], [[*Fuels][Fuel]] | Alchemy Table  |
-| /Orpiment Exultant/       | 15 forge         | Anbary & Lapidary           | Iotic Essence | [[*Inks][Ink]]           | Alchemy Table  |
-| Yewgall Ink             | 5 nectar         | Insects & Nectars           |               | [[*Inks][Ink]]           | Dispensary     |
-| Determination (Journal) | 20 ?             |                             |               |               |                |
-| Perhibiate              | 5 health         | Weaving & Knotworking       |               | [[*Inks][Ink]]           | Hallowed Drum  |
-| Dearday Lens            | 5 sky, 5 lantern | Glasiary & Lightsmithing    |               |               | Alchemy Table  |
-| ?                       | 10 lantern       | Glasiary & Lightsmithing    | Glass         |               |                |
-| Cheerful Ditty          | 5 heart          | Drums & Dances              |               |               | Hallowed Drum  |
-| Bisclavret's Knot       | 5 scale          | Path & Pilgrim              |               | [[*Marks][Mark]]          | Grand Piano    |
-| Amethyst Ampoule        | 5 knock          | The Great Signs/Scars       |               |               | Double Bass    |
-|-------------------------+------------------+-----------------------------+---------------+---------------+----------------|
+|-------------------------+-------------------------------+-------------------+---------------+----------------+---------------------|
+| Craftable               | Skill                         | Priciple Req.     | Special       | Type           | Notes               |
+|-------------------------+-------------------------------+-------------------+---------------+----------------+---------------------|
+| Isle-Water Pitcher      |                               | 1 heart, 1 penny  |               | [[*Beverages & Edibles][Beverage]]       | At Well             |
+|                         |                               |                   |               |                |                     |
+| Amethyst Ampoule        | The Great Signs/Scars         | 5 knock           |               |                | Double Bass         |
+| Amethyst Ampoule        | Lockworks & Clockworks        | 5 knock           |               |                | Forge               |
+| Amethyst Ampoule        | Surgeries & Exsanguinations   | 5 knock           |               |                | Forge               |
+| Awakened Feather        | Anbary & Lapidary             | 5 sky             |               |                | Telescope           |
+| Beguiling Melody        | Applebright Euphonies         | 5 grail           |               | [[*Memory Table][Memory]]         |                     |
+| Bisclavret's Knot       | Path & Pilgrim                | 5 scale           |               | [[*Marks][Mark]]           | Grand Piano         |
+| Bitterblack Salts       | Anbary & Lapidary             | 5 forge           |               |                | Telescope           |
+| Bitterblack Salts       | Door & Wall                   | 5 forge           |               |                |                     |
+| Bitterblack Salts       | Transformations & Liberatiosn | 5 forge           |               | [[*Pigments][Pigment]]        |                     |
+| Bittersweet Certainty   | Ragged Crossroads             | 5 winter          |               | [[*Memory Table][Memory]]         | Desk:Eva            |
+| Bittersweet Certainty   | Snow Stories                  | 5 winter          |               | [[*Memory Table][Memory]]         | Desk:Eva            |
+| Cheerful Ditty          | Drums & Dances                | 5 heart           |               | [[*Memory Table][Memory]]         | Hallowed Drum       |
+| Confounding Parable     | Applebright Euphonies         | 5 sky             |               | [[*Memory Table][Memory]]         |                     |
+| Dearday Lens            | Glasiary & Lightsmithing      | 5 sky / 5 lantern | d             |                | Alchemy Table       |
+| Eigengrau               | Auroral Contemplations        | 5 lantern         |               |                | Desk: Eva           |
+| Eigengrau               | Sights & Sensations           | 5 winter          |               |                | Desk: Eva           |
+| Labhitic Tincture       | Ragged Crossroads             | 5 edge            |               |                | Shrine: The Chancel |
+| Midnight Mark           | Desires & Dissolutions        | 5 moon            |               |                | Desk: Eva           |
+| Midnight Mark           | Wolf Stories                  | 5 moon            |               | [[*Marks][Mark]]           | Telescope           |
+| Paint: Moth-Gold        | Inks of Revelation            | 5 moth            |               | ?              |                     |
+| Perhibiate              | Inks of Power                 | 5 scale           |               |                | Telescope           |
+| Perhibiate              | Weaving & Knotworking         | 5 health          |               | [[*Inks][Ink]]            | Hallowed Drum       |
+| Refulgin                | Inks of Revelation            | 5 lantern         |               | [[*Pigments][Pigment]]        | Mirrors             |
+| Regensburg Balm         | Herbs & Infusions             | 5 heart           |               |                | Barber's Chair      |
+| Regensburg Balm         | Maggephene Mysteries          | 5 heart           |               |                | Desk: Reading Room  |
+| Salt-Sign               | Inks of Power                 | 5 rose            |               |                | Telescope           |
+| Salt-Sign               | Path & Pilgrim                | 5 rose            |               | [[*Marks][Mark]]           | Grand Piano         |
+| Salt-Sign               | Pearl & Tide                  | 5 rose            |               |                | Telescope           |
+| Salt-Sign               | Sand Stories                  | 5 rose            |               |                | Desk: Eva           |
+| Secret Threshold        | Door & Wall                   | 5 knock           |               | [[*Memory Table][Memory]]         | Forge               |
+| Secret Threshold        | Preliminal Meter              | 5 knock           |               |                | Forge               |
+| Thirza's Cordials       | Spices & Savours              | 5 nectar          |               | [[*Beverages & Edibles][Beverage]]       |                     |
+| Tanglebrag              | Resurgences & Emergences      | 5 moth            |               |                | Desk: Eva           |
+| Torgue's Cleansing      | Auroral Contemplations        | 5 edge            |               |                | Forge               |
+| Torgue's Cleansing      | Discilines of the Scar        | 5 edge            |               |                | Desk: Eva           |
+| Torgue's Cleansing      | Purifications & Exaltations   | 5 sky             |               | [[*Memory Table][Memory]]         | Organ               |
+| Westcott's Compounds    | Pyroglyphics                  | 5 forge           |               |                |                     |
+| Westcott's Compounds    | Sacra Limiae                  | 5 moth            |               | [[*Materials][Material]]       |                     |
+| Westcott's Compounds    | Spices & Savours              | 5 forge           |               |                |                     |
+| Witching Tisane         | Desires & Dissolutions        | 5 grail           |               | [[*Beverages & Edibles][Beverage]]       |                     |
+| Yewgall Ink             | Insects & Nectars             | 5 nectar          |               | [[*Inks][Ink]]            | Dispensary          |
+| Yewgall Ink             | Putrefactions & Calcinations  | 5 winter          |               |                | Desk: Eva           |
+|                         |                               |                   |               |                |                     |
+| Ascendant Harmony       | Purifications & Exaltations   | 10 sky            |               |                | Organ               |
+| Curious Hunch           | The Great Signs/Scars         | 10 knock          | Memory        | [[*Memory Table][Memory]]         | Necropsy Table      |
+| Enduring Reflection     | Path & Pilgrim                | 10 rose           | Memory        | [[*Memory Table][Memory]]         | Grand Piano         |
+| /Iotic/ Essence           | Anbary & Lapidary             | 10 forge          | Liquid        | [[*Pigments][Pigment]], [[*Fuels][Fuel]]  | Alchemy Table       |
+| Nameday Riddle          | Sacra Limiae                  | 10 moth           | Memory        | [[*Memory Table][Memory]]         |                     |
+| Pale Mommet             | Resurgences & Emergences      | 10 grail          | Fabric        | [[*Tools][Tool]]           |                     |
+| Pyrus Auricalcinus      | Spices & Savours              | 10 nectar         | Wood          | [[*Plants][Plant]]          |                     |
+| Winning Move            | Auroral Contemplations        | 10 edge           | Memory        |                | Forge               |
+| ?                       | Desires & Dissolutions        | 10 grail          | Flower        |                |                     |
+| ?                       | Desires & Dissolutions        | 10 moon           | Wood          | Fruit?         |                     |
+| ?                       | Disciplines of the Scar       | 10 edge           | Leaf          | Ink?           |                     |
+| ?                       | Drums & Dances                | 10 heart          | ?             |                | Musical             |
+| ?                       | Glasiary & Lightsmithing      | 10 lantern        | Glass         |                |                     |
+| ?                       | Sights & Sensations           | 10 winter         | Flower        | Beverage?      |                     |
+| ?                       | Snow Stories                  | 10 winter         | Remains       | Chilling?      |                     |
+| ?                       | Ragged Crossroads             | 10 winter         | Flower        | Beverage?      |                     |
+| ?                       | Wolf Stories                  | 10 moon           | Remains       |                |                     |
+| ?                       | Inks of Power                 | 10 scale          | Leaf          | Ink?           |                     |
+| ?                       | Door & Wall                   | 10 forge          | Metal         | Exotic?        |                     |
+| ?                       | Lockworks & Clockworks        | 10 knock          | Glass         | Knock-alloy?   | Forge               |
+| ?                       | Preliminal Meter              | 10 knock          | Memory        | Knock-insight? |                     |
+| ?                       | Surgeries & Exsanguinations   | 10 knock          | Liquid        | Knock-toxin?   | Forge               |
+| ?                       | Resurgences & Emergences      | 10 moth           | Egg           | Eyeless?       | d                   |
+|                         |                               |                   |               |                |                     |
+| /Orpiment Exultant/       | Anbary & Lapidary             | 15 forge          | Iotic Essence | [[*Inks][Ink]]            | Alchemy Table       |
+|                         |                               |                   |               |                |                     |
+| Determination (Journal) |                               | 20 ?              |               |                |                     |
+|-------------------------+-------------------------------+-------------------+---------------+----------------+---------------------|
 
 ** Craftable Items Tables
 
@@ -1177,6 +1229,7 @@ Sometimes these are found in the house, more often they're purchased or crafted
 | Isle-Water        | 1 heart, 1 moon, 1 winter          | Beverage | X     |     |
 | Witching Tisane   | 2 grail, 1 heart                   | Beverage | X     |     |
 | Thirza's Cordials | 2 moth, 2 nectar                   | Beverage | X     |     |
+| Eigengrau         | 1 winter, 1 moon                   | Beverage | X     |     |
 |-------------------+------------------------------------+----------+-------+-----|
 
 *** Fuels
@@ -1187,6 +1240,8 @@ s
 | Kerosene      |                    |       | ?   |
 | Paraffin      |                    |       | ?   |
 | /Iotic/ Essence | 5 forge, 3 lantern | X     |     |
+| Eigengrau     | 1 winter, 1 moon   | X     |     |
+| Beeswax       | 1 moth, 1 scale    | X     |     |
 |---------------+--------------------+-------+-----|
 
 *** Inks
@@ -1226,15 +1281,20 @@ table that specializes in them.
 
 *** Materials
 
-|---------------------+-----------------------------------------------+-------+-------+-----|
-| Name                | Principles                                    |       | Craft | Buy |
-|---------------------+-----------------------------------------------+-------+-------+-----|
-| Westcott's Compunds | 2 forge, 1 grail, 1 lantern, 1 moth, 1 nectar |       | X     |     |
-| Dearday Lens        | 2 lantern, 2 sky                              | Glass | X     |     |
-| Tanglebrag          | 2 moth, 1 lantern, 1 nectar, 1 scale          |       | X     |     |
-| Granite Slab        | 1 forge, 1 scale                              | Stone |       |     |
-| Atlantic Amber      | 3 lantern                                     | Gem   |       |     |
-|---------------------+-----------------------------------------------+-------+-------+-----|
+Items that don't seem to fall into frequency categories.
+
+|---------------------+-----------------------------------------------+---------------+-------+-----|
+| Name                | Principles                                    |               | Craft | Buy |
+|---------------------+-----------------------------------------------+---------------+-------+-----|
+| Westcott's Compunds | 2 forge, 1 grail, 1 lantern, 1 moth, 1 nectar |               | X     |     |
+| Dearday Lens        | 2 lantern, 2 sky                              | Glass         | X     |     |
+| Tanglebrag          | 2 moth, 1 lantern, 1 nectar, 1 scale          |               | X     |     |
+| Granite Slab        | 1 forge, 1 scale                              | Stone         |       |     |
+| Atlantic Amber      | 3 lantern                                     | Gem           |       |     |
+| Regensburg Balm     | 2 heart, 2 nectar                             | Liquid        | X     |     |
+| Labhitic Tincture   | 2 edge, 1 lantern                             |               |       |     |
+| Amethyst Ampoule    | 2 heart, 2 knock                              | Glass, Liquid | X     |     |
+|---------------------+-----------------------------------------------+---------------+-------+-----|
 
 ** Miscellaneous Items
 
