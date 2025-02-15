@@ -832,11 +832,11 @@ then the secondary upgrades slower.
 | Name     | Stats                     | Notes           |
 |----------+---------------------------+-----------------|
 | Engineer | 4 forge, 4 lantern, 4 sky | May use fuel    |
+| Fugitive | 4 scale, 4 edge, 4 heart  |                 |
 | Musician | 4 sky, 4 rose, 4 nectar   |                 |
+| Nun      | 4 knock, 4 moon, 4 grail  | May use omens   |
 | Painter  | 4 grail, 4 moth, 4 rose   |                 |
 | Poet     | 4 winter, 4 moth, 4 sky   | May use flowers |
-| Fugitive | 4 scale, 4 edge, 4 heart  |                 |
-| Nun      | 4 knock, 4 moon, 4 grail  | May use omens   |
 |----------+---------------------------+-----------------|
  
 ** Weather Table
@@ -859,43 +859,48 @@ then the secondary upgrades slower.
 
 Organized by the number of principles each memory possesses.
 
-|-----------------------+--------------------------+------------------------------------|
-| Name                  | Principles               | Notes                              |
-|-----------------------+--------------------------+------------------------------------|
-| Sight                 | 1 lantern                | Considering objects                |
-| Touch                 | 1 forge                  | Considering objects                |
-| Scent                 | 1 nectar                 | Considering foodstuff              |
-| Sound                 | 1 heart                  | Collecting bees in winter          |
-| Salt                  | 1 knock, 1 moon          | Book, Swimming in ocean            |
-| Revelation            | 2 lantern                | Book                               |
-| Blindsight            | 2 winter                 | Book                               |
-| Torgue's Cleansing    | 2 edge                   | Crafting                           |
-| Winning Move          | 3 edge                   | Crafting, Evolve                   |
-| Contradiction         | 2 edge, 1 moon           | Book                               |
-| Foresight             | 2 forge, 1 lantern       | Book                               |
-| Satisfaction          | 2 grail, 1 heart         | Book                               |
-| Solace                | 2 heart, 1 sky           | Book                               |
-| Cheerful Ditty        | 2 heart, 1 sky           | Book about music                   |
-| Pattern               | 2 knock, 1 forge         | Book                               |
-| A Stolen Secret       | 2 moon, 1 knock          | Book, Playing a record             |
-| Impulse               | 2 moth, 1 nectar         | Book                               |
-| Gossip                | 2 rose, 1 grail          | Book                               |
-| Fear                  | 2 scale, 1 edge          | Book, Others                       |
-| Hindsight             | 2 winter, 1 scale        | Book, Talking to Mr Kille          |
-| Regret                | 2 winter, 1 forge        | Book, Failing a book               |
-| Secret Threshold      | 2 knock, 1 rose          | Book                               |
-| Bittersweet Certainty | 2 winter, 1 lantern      | Book, Crafting                     |
-| Beguiling Melody      | 2 grail, 2 sky           | Book                               |
-| Storm                 | 2 heart, 2 sky           | Book                               |
-| Intuition             | 2 moon, 2 rose           | Book                               |
-| Savage Hymn           | 2 scale, 2 sky           | Book                               |
-| Earthsign             | 2 nectar, 2 scale        | Book, Persistent, Omen, Evolve     |
-| Confounding Parable   | 2 moon, 2 rose, 2 sky    | Book                               |
-| Nameday Riddle        | 3 moth, 2 knock          | Crafting                           |
-| Enduring Reflection   | 3 rose, 1 heart, 1 knock | Crafting, Persistent, Evolve       |
-| Curious Hunch         | 4 knock, 3 sky, 3 moth   | Crafting, Persistent, Omen, Evolve |
-| Ascendant Harmony     | 4 sky, 2 lantern         | Crafting, Persistent, Evolve       |
-|-----------------------+--------------------------+------------------------------------|
+|-----------------------+---------------------------+------------------------------------|
+| Name                  | Principles                | Notes                              |
+|-----------------------+---------------------------+------------------------------------|
+| Sight                 | 1 lantern                 | Considering objects                |
+| Touch                 | 1 forge                   | Considering objects                |
+| Scent                 | 1 nectar                  | Considering foodstuff              |
+| Sound                 | 1 heart                   | Collecting bees in winter          |
+|                       |                           |                                    |
+| Salt                  | 1 knock, 1 moon           | Book, Swimming in ocean            |
+| Revelation            | 2 lantern                 | Book                               |
+| Blindsight            | 2 winter                  | Book                               |
+| Torgue's Cleansing    | 2 edge                    | Crafting                           |
+|                       |                           |                                    |
+| Winning Move          | 3 edge                    | Crafting, Evolve                   |
+| Contradiction         | 2 edge, 1 moon            | Book                               |
+| Foresight             | 2 forge, 1 lantern        | Book                               |
+| Satisfaction          | 2 grail, 1 heart          | Book                               |
+| Solace                | 2 heart, 1 sky            | Book                               |
+| Cheerful Ditty        | 2 heart, 1 sky            | Book about music                   |
+| Pattern               | 2 knock, 1 forge          | Book                               |
+| A Stolen Secret       | 2 moon, 1 knock           | Book, Playing a record             |
+| Impulse               | 2 moth, 1 nectar          | Book                               |
+| Gossip                | 2 rose, 1 grail           | Book                               |
+| Fear                  | 2 scale, 1 edge           | Book, Others                       |
+| Hindsight             | 2 winter, 1 scale         | Book, Talking to Mr Kille          |
+| Regret                | 2 winter, 1 forge         | Book, Failing a book               |
+| Secret Threshold      | 2 knock, 1 rose           | Book                               |
+| Bittersweet Certainty | 2 winter, 1 lantern       | Book, Crafting                     |
+|                       |                           |                                    |
+| Beguiling Melody      | 2 grail, 2 sky            | Book                               |
+| Storm                 | 2 heart, 2 sky            | Book                               |
+| Intuition             | 2 moon, 2 rose            | Book                               |
+| Savage Hymn           | 2 scale, 2 sky            | Book                               |
+| Earthsign             | 2 nectar, 2 scale         | Book, Persistent, Omen, Evolve     |
+|                       |                           |                                    |
+| Nameday Riddle        | 3 moth, 2 knock           | Crafting                           |
+| Enduring Reflection   | 3 rose, 1 heart, 1 knock  | Crafting, Persistent, Evolve       |
+| Confounding Parable   | 2 moon, 2 rose, 2 sky     | Book                               |
+| Ascendant Harmony     | 4 sky, 2 lantern          | Crafting, Persistent, Evolve       |
+| Thunderskin's Paean   | 1 grail, 4 heart, 1 scale | Crafting, Evolve, Sound            |
+| Curious Hunch         | 4 knock, 3 sky, 3 moth    | Crafting, Persistent, Omen, Evolve |
+|-----------------------+---------------------------+------------------------------------|
 
 ** Book Table
 
@@ -929,17 +934,20 @@ Organized by the Principle mystery challenge.
 | The Rose of Nuriel                        | 10 grail   |           | The Great Sign and Great Scars  | Satisfaction        |    4 |
 |-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
 | The Ceaseless Tantra                      | 6 heart    | Sanskirt  | Weaving & Knotworking           | Impulse             |    2 |
+| Velletri Interviews                       | 6 heart    | Record    | Edicts Inviolable               | A Stolen Secret     |    1 |
 | The Flayed Tantra                         | 8 heart    | Sanskrit  | Maggephene Mysteries            | Storm               |    2 |
 | Rapt in the King                          | 8 heart    |           | Drums & Dances                  | Earthsign           |      |
 | Two Wombs, One Heart                      | 8 heart    | Killasimi | Stitching & Binding             | Satisfaction        |    2 |
 | The Geminiad I                            | 10 heart   | Fucine    | Weaving & Knotworking           | Solace              |    2 |
 | The Instruments of the Heart              | 10 heart   |           | Drums & Dances                  | Cheerful Ditty      |    4 |
 | Those Who Do Not Sleep                    | 12 heart   | Fucine    | Surgeries & Exsanguinations     | Storm               |    5 |
+| Commandments for the Preservation         | 14 heart   | Mandaic   | Stitching & Binding             | Satisfaction        |    4 |
 |-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
 | Travelling at Night, Vol 1                | 4 knock    |           | Edicts Liminal                  |                     |    1 |
 | Travelling at Night, Vol 3                | 4 knock    |           | Door & Wall                     | Pattern             |    1 |
 | Advice on Containment                     | 4 knock    |           | Glassblowing & Vesselcrafting   | Pattern             |    2 |
 | The Treatise on Underplaces               | 4 knock    |           | Horns & Ivories                 | Fear                |      |
+| The Locksmith's Dream: Trespasses         | 6 knock    |           | Edicts Liminal                  | Impulse             |    1 |
 | On the Winding Stair                      | 8 knock    | Ramsund   | Door & Wall                     | Pattern             |    2 |
 | Cardea's Delights                         | 8 knock    | Latin     | The Great Signs and Great Scars | Pattern             |    4 |
 | An Almanac of Entrances                   | 10 knock   |           | Edicts Liminal                  |                     |    2 |
@@ -960,6 +968,7 @@ Organized by the Principle mystery challenge.
 | The Kerisham Portolan                     | 6 moon     |           | Sea Stories                     | Gossip              |    2 |
 | Malachite Supplications                   | 8 moon     | Greek     | Tridesma Hiera                  | Impulse             |    4 |
 | To a Pale Lady                            | 8 moon     |           | Pearl & Tide                    | Salt                |    2 |
+| The Deaths of the Moon                    | 8 moon     | Killasimi | Snow Stories                    | Salt                |    3 |
 |-------------------------------------------+------------+-----------+---------------------------------+---------------------+------|
 | Kitling Ripe (and Other Stories)          | 6 moth     |           | Resurgences & Emergences        | Impulse             |    2 |
 | On Matthias and the Amethyst Imago: Loss  | 6 moth     |           | Solutions & Separations         | A Stolen Secret     |    5 |
@@ -1083,55 +1092,56 @@ These sometimes pop up during a book mastery challenge "bonus round".
 
 ** Crafting Stations Table
 
-|-----------------------+-------------------------------+-------------------------------+---------------+-----------------------|
-| Name                  | Location                      | Soul Elements                 | ToW Attribute | Notes                 |
-|-----------------------+-------------------------------+-------------------------------+---------------+-----------------------|
-| Fireplaces            | Various                       |                               |               | Brew, Destroy         |
-| Plant bushes          | Various                       |                               |               | [[*Plants][Plants]]                |
-| Tea Service           | Keeper's Lodge                |                               |               | Craft cups of liquids |
-| Kitchen Cabinet       | Kitchen                       |                               |               | Craft cups of liquids |
-| Hush House Well       | Well                          | heart                         |               | Requires money        |
-|                       |                               |                               |               |                       |
-| Desk: Reading Room    | Reading Room                  | heart, lantern, moon, sky     |               | Papers                |
-| Desk: Eva             | Watchman's Tower: 1st Floor   | edge, grail, moon, winter     |               | Papers                |
-| Desk: Pale            | Long Tower: Solomon's Study   | lantern, scale, sky, winter   |               | Papers                |
-| Desk: Ambrose         | Westcott Room                 | forge, knock, lantern, sky    |               | Papers                |
-| Desk: Natan           | Motley Tower: Regensburg Room | heart, knock, rose, moth      |               | Papers                |
-| Desk: Nonna           | Chapter House                 | lantern, grail, nectar, heart |               | Papers                |
-|                       |                               |                               |               |                       |
-| Projector             | Patient's Lounge              | lantern, forge, grail, sky    |               | Film                  |
-| Thirza's Phonograph   | Severn Chamber                | knock, moon, heart, sky       |               | Records               |
-| Alchemist's Glassware | Fludd Gallery                 | winter, lantern, grail, forge |               | Several Substances    |
-| Necropsy Table        | Examination Room              | scale, heart, knock, winter   |               | Remains               |
-| Dispensary            | Motley Tower: Dispensary      | nectar, knock, moth, heart    |               | Flower, Remains       |
-| Organ                 | Nave of the Abbey             | sky, forge                    |               | Musical               |
-| Piano                 | Servants' Hall                | sky, moth                     |               | Musical               |
-| Loom                  | Servants' Hall                | heart, moth, nectar, rose     |               | Fabric                |
-| Foundry               | Foundry                       | knock, edge, scale, forge     |               | Glass, Metal, Stone   |
-| Grand Piano           | Mazarine Room                 | sky, rose                     |               | Musical               |
-| Sacred Spring         | Sacred Spring                 | nectar, grail, moon           |               | Omen, Remains         |
-| Pumps: Upper Level    | Upper Pump Room               | forge                         |               | Drains Water          |
-| Cage                  | Gullscry Tower: Eales'        | moth, moon, knock, scale      |               |                       |
-| Gullscry Workbench    | Gullscry Tower: Valentine's   | forge, sky, winter, knock     |               |                       |
-|                       |                               |                               |               |                       |
-| Garden Dummy          | Practic Garden                | edge, heart, scale, winter    | Illumination  |                       |
-| Shrine: The Watchman  | Radiant Stair                 | lantern, rose, sky            | Illumination  |                       |
-| Solar Altar           | Nave of the Abbey             | sky, winter, lantern          | Hushery       |                       |
-| Hunter's Harp         | Windlit Gallery               | sky, scale                    | Nyctodromy    | Musical               |
-| Shrine: St. Januarius | Atrium                        | heart, knock, rose, sky       | Nyctodromy    |                       |
-| Mirrors               | Hall of Division              | grail, knock, winter, lantern | Nyctodromy    | Light                 |
-| Barber's Chair        | Motley Tower: Illopoly's Nook | grail, heart, moth            | Preservation  |                       |
-| Hallowed Drum         | Mazarine Room                 | heart, sky                    | Preservation  | Musical               |
-| Sunset Harp           | Mazarine Room                 | moon, sky                     | Birdsong      | Musical               |
-| Quivering Double Bass | Mazarine Room                 | grail, sky                    | Birdsong      | Musical               |
-| Great Clock           | Tower Clock                   | forge, knock, sky, winter     | Holomachistry |                       |
-| Telescope             | Observatory                   | forge, moon, rose, sky        | Holomachistry |                       |
-| Shrine: The Chancel   | Chancel of the Abbey          | moth, winter, edge            | Holomachistry |                       |
-| Shrine: The Madrugad  | Glorious Stair                | forge, sky, winter            | Ithastry      |                       |
-| Practice Equipment    | Duelling Hall                 | edge, scale, lantern, heart   | Ithastry      |                       |
-| Bells                 | Bells                         | sky, forge                    | Ithastry      |                       |
-| Nocturnary            | Night Gallery                 | winter, nectar, grail, moon   | Skolekosophy  |                       |
-|-----------------------+-------------------------------+-------------------------------+---------------+-----------------------|
+|-----------------------+-------------------------------+-------------------------------+---------------+------------------------|
+| Name                  | Location                      | Soul Elements                 | ToW Attribute | Notes                  |
+|-----------------------+-------------------------------+-------------------------------+---------------+------------------------|
+| Fireplaces            | Various                       |                               |               | Brew, Destroy          |
+| Plant bushes          | Various                       |                               |               | [[*Plants][Plants]]                 |
+| Tea Service           | Keeper's Lodge                |                               |               | Craft cups of liquids  |
+| Kitchen Cabinet       | Kitchen                       |                               |               | Craft cups of liquids  |
+| Hush House Well       | Well                          | heart                         |               | Requires money         |
+|                       |                               |                               |               |                        |
+| Desk: Reading Room    | Reading Room                  | heart, lantern, moon, sky     |               | Papers, Tool, Ink      |
+| Desk: Eva             | Watchman's Tower: 1st Floor   | edge, grail, moon, winter     |               | Papers, Tool, Ink      |
+| Desk: Pale            | Long Tower: Solomon's Study   | lantern, scale, sky, winter   |               | Papers, Tool, Ink      |
+| Desk: Ambrose         | Westcott Room                 | forge, knock, lantern, sky    |               | Papers, Tool, Ink      |
+| Desk: Natan           | Motley Tower: Regensburg Room | heart, knock, rose, moth      |               | Papers, Tool, Ink      |
+| Desk: Nonna           | Chapter House                 | lantern, grail, nectar, heart |               | Papers, Tool, Ink      |
+|                       |                               |                               |               |                        |
+| Projector             | Patient's Lounge              | lantern, forge, grail, sky    |               | Film                   |
+| Thirza's Phonograph   | Severn Chamber                | knock, moon, heart, sky       |               | Records                |
+| Alchemist's Glassware | Fludd Gallery                 | winter, lantern, grail, forge |               | Several Substances     |
+| Necropsy Table        | Examination Room              | scale, heart, knock, winter   |               | Remains                |
+| Dispensary            | Motley Tower: Dispensary      | nectar, knock, moth, heart    |               | Flower, Remains        |
+| Organ                 | Nave of the Abbey             | sky, forge                    |               | Musical                |
+| Piano                 | Servants' Hall                | sky, moth                     |               | Musical                |
+| Loom                  | Servants' Hall                | heart, moth, nectar, rose     |               | Fabric                 |
+| Foundry               | Foundry                       | knock, edge, scale, forge     |               | Glass, Metal, Stone    |
+| Grand Piano           | Mazarine Room                 | sky, rose                     |               | Musical                |
+| Sacred Spring         | Sacred Spring                 | nectar, grail, moon           |               | Omen, Remains, Pigment |
+| Pumps: Upper Level    | Upper Pump Room               | forge                         |               | Drains Water           |
+| Cage                  | Gullscry Tower: Eales's       | moth, moon, knock, scale      |               | Pet, Bed               |
+| Gullscry Workbench    | Gullscry Tower: Valentine's   | forge, sky, winter, knock     |               | MANY                   |
+|                       |                               |                               |               |                        |
+| Garden Dummy          | Practic Garden                | edge, heart, scale, winter    | Illumination  |                        |
+| Shrine: The Watchman  | Radiant Stair                 | lantern, rose, sky            | Illumination  |                        |
+| Solar Altar           | Nave of the Abbey             | sky, winter, lantern          | Hushery       |                        |
+| Hunter's Harp         | Windlit Gallery               | sky, scale                    | Nyctodromy    | Musical                |
+| Shrine: St. Januarius | Atrium                        | heart, knock, rose, sky       | Nyctodromy    |                        |
+| Mirrors               | Hall of Division              | grail, knock, winter, lantern | Nyctodromy    | Light                  |
+| Barber's Chair        | Motley Tower: Illopoly's Nook | grail, heart, moth            | Preservation  |                        |
+| Hallowed Drum         | Mazarine Room                 | heart, sky                    | Preservation  | Musical                |
+| Sunset Harp           | Mazarine Room                 | moon, sky                     | Birdsong      | Musical                |
+| Quivering Double Bass | Mazarine Room                 | grail, sky                    | Birdsong      | Musical                |
+| Great Clock           | Tower Clock                   | forge, knock, sky, winter     | Holomachistry |                        |
+| Telescope             | Observatory                   | forge, moon, rose, sky        | Holomachistry |                        |
+| Shrine: The Chancel   | Chancel of the Abbey          | moth, winter, edge            | Holomachistry |                        |
+| Shrine: The Madrugad  | Glorious Stair                | forge, sky, winter            | Ithastry      |                        |
+| Practice Equipment    | Duelling Hall                 | edge, scale, lantern, heart   | Ithastry      |                        |
+| Bells                 | Bells                         | sky, forge                    | Ithastry      |                        |
+| Practice Yard         | Gaol Yard                     | winter, edge, heart, knock    | Ithastry      | Soul, Memory           |
+| Nocturnary            | Night Gallery                 | winter, nectar, grail, moon   | Skolekosophy  |                        |
+|-----------------------+-------------------------------+-------------------------------+---------------+------------------------|
 
 ** Crafting Items Summary Table
 
@@ -1142,62 +1152,94 @@ See the subsection [[*Craftable Items Tables][Craftable Items Tables]] for detai
 | Craftable               | Skill                         | Priciple Req.     | Special       | Type           | Notes               |
 |-------------------------+-------------------------------+-------------------+---------------+----------------+---------------------|
 | Isle-Water Pitcher      |                               | 1 heart, 1 penny  |               | [[*Beverages & Edibles][Beverage]]       | At Well             |
-|                         |                               |                   |               |                |                     |
+| Beeswax                 | Any nectar                    | heart or nectar   |               |                | At Beehive          |
+| Honey                   | Any nectar                    | heart or nectar   |               |                | At Beehive          |
+|-------------------------+-------------------------------+-------------------+---------------+----------------+---------------------|
 | Amethyst Ampoule        | The Great Signs/Scars         | 5 knock           |               |                | Double Bass         |
 | Amethyst Ampoule        | Lockworks & Clockworks        | 5 knock           |               |                | Forge               |
 | Amethyst Ampoule        | Surgeries & Exsanguinations   | 5 knock           |               |                | Forge               |
+|                         |                               |                   |               |                |                     |
 | Awakened Feather        | Anbary & Lapidary             | 5 sky             |               |                | Telescope           |
+|                         |                               |                   |               |                |                     |
 | Beguiling Melody        | Applebright Euphonies         | 5 grail           |               | [[*Memory Table][Memory]]         |                     |
+|                         |                               |                   |               |                |                     |
 | Bisclavret's Knot       | Path & Pilgrim                | 5 scale           |               | [[*Marks][Mark]]           | Grand Piano         |
+| Bisclavret's Knot       | Serpents & Venoms             | 5 scale           |               |                | Cage                |
+|                         |                               |                   |               |                |                     |
 | Bitterblack Salts       | Anbary & Lapidary             | 5 forge           |               |                | Telescope           |
 | Bitterblack Salts       | Door & Wall                   | 5 forge           |               |                |                     |
-| Bitterblack Salts       | Transformations & Liberatiosn | 5 forge           |               | [[*Pigments][Pigment]]        |                     |
+| Bitterblack Salts       | Transformations & Liberations | 5 forge           |               | [[*Pigments][Pigment]]        |                     |
+|                         |                               |                   |               |                |                     |
 | Bittersweet Certainty   | Ragged Crossroads             | 5 winter          |               | [[*Memory Table][Memory]]         | Desk:Eva            |
 | Bittersweet Certainty   | Snow Stories                  | 5 winter          |               | [[*Memory Table][Memory]]         | Desk:Eva            |
+|                         |                               |                   |               |                |                     |
 | Cheerful Ditty          | Drums & Dances                | 5 heart           |               | [[*Memory Table][Memory]]         | Hallowed Drum       |
+|                         |                               |                   |               |                |                     |
 | Confounding Parable     | Applebright Euphonies         | 5 sky             |               | [[*Memory Table][Memory]]         |                     |
-| Dearday Lens            | Glasiary & Lightsmithing      | 5 sky / 5 lantern | d             |                | Alchemy Table       |
+|                         |                               |                   |               |                |                     |
+| Dearday Lens            | Glasiary & Lightsmithing      | 5 sky / 5 lantern |               |                | Alchemy Table       |
+|                         |                               |                   |               |                |                     |
 | Eigengrau               | Auroral Contemplations        | 5 lantern         |               |                | Desk: Eva           |
 | Eigengrau               | Sights & Sensations           | 5 winter          |               |                | Desk: Eva           |
+|                         |                               |                   |               |                |                     |
 | Labhitic Tincture       | Ragged Crossroads             | 5 edge            |               |                | Shrine: The Chancel |
+|                         |                               |                   |               |                |                     |
 | Midnight Mark           | Desires & Dissolutions        | 5 moon            |               |                | Desk: Eva           |
 | Midnight Mark           | Wolf Stories                  | 5 moon            |               | [[*Marks][Mark]]           | Telescope           |
+| Midnight Mark           | Serpents & Venoms             | 5 moon            |               |                |                     |
+|                         |                               |                   |               |                |                     |
 | Paint: Moth-Gold        | Inks of Revelation            | 5 moth            |               | ?              |                     |
+|                         |                               |                   |               |                |                     |
 | Perhibiate              | Inks of Power                 | 5 scale           |               |                | Telescope           |
 | Perhibiate              | Weaving & Knotworking         | 5 health          |               | [[*Inks][Ink]]            | Hallowed Drum       |
+|                         |                               |                   |               |                |                     |
 | Refulgin                | Inks of Revelation            | 5 lantern         |               | [[*Pigments][Pigment]]        | Mirrors             |
+|                         |                               |                   |               |                |                     |
 | Regensburg Balm         | Herbs & Infusions             | 5 heart           |               |                | Barber's Chair      |
 | Regensburg Balm         | Maggephene Mysteries          | 5 heart           |               |                | Desk: Reading Room  |
+|                         |                               |                   |               |                |                     |
 | Salt-Sign               | Inks of Power                 | 5 rose            |               |                | Telescope           |
 | Salt-Sign               | Path & Pilgrim                | 5 rose            |               | [[*Marks][Mark]]           | Grand Piano         |
 | Salt-Sign               | Pearl & Tide                  | 5 rose            |               |                | Telescope           |
 | Salt-Sign               | Sand Stories                  | 5 rose            |               |                | Desk: Eva           |
+|                         |                               |                   |               |                |                     |
 | Secret Threshold        | Door & Wall                   | 5 knock           |               | [[*Memory Table][Memory]]         | Forge               |
-| Secret Threshold        | Preliminal Meter              | 5 knock           |               |                | Forge               |
+| Secret Threshold        | Preliminal Meter              | 5 knock           |               | [[*Memory Table][Memory]]         | Forge               |
+|                         |                               |                   |               |                |                     |
 | Thirza's Cordials       | Spices & Savours              | 5 nectar          |               | [[*Beverages & Edibles][Beverage]]       |                     |
+|                         |                               |                   |               |                |                     |
 | Tanglebrag              | Resurgences & Emergences      | 5 moth            |               |                | Desk: Eva           |
-| Torgue's Cleansing      | Auroral Contemplations        | 5 edge            |               |                | Forge               |
-| Torgue's Cleansing      | Discilines of the Scar        | 5 edge            |               |                | Desk: Eva           |
+|                         |                               |                   |               |                |                     |
+| Torgue's Cleansing      | Auroral Contemplations        | 5 edge            |               | [[*Memory Table][Memory]]         | Forge               |
+| Torgue's Cleansing      | Discilines of the Scar        | 5 edge            |               | [[*Memory Table][Memory]]         | Desk: Eva           |
 | Torgue's Cleansing      | Purifications & Exaltations   | 5 sky             |               | [[*Memory Table][Memory]]         | Organ               |
+|                         |                               |                   |               |                |                     |
 | Westcott's Compounds    | Pyroglyphics                  | 5 forge           |               |                |                     |
 | Westcott's Compounds    | Sacra Limiae                  | 5 moth            |               | [[*Materials][Material]]       |                     |
 | Westcott's Compounds    | Spices & Savours              | 5 forge           |               |                |                     |
+|                         |                               |                   |               |                |                     |
 | Witching Tisane         | Desires & Dissolutions        | 5 grail           |               | [[*Beverages & Edibles][Beverage]]       |                     |
+|                         |                               |                   |               |                |                     |
 | Yewgall Ink             | Insects & Nectars             | 5 nectar          |               | [[*Inks][Ink]]            | Dispensary          |
 | Yewgall Ink             | Putrefactions & Calcinations  | 5 winter          |               |                | Desk: Eva           |
-|                         |                               |                   |               |                |                     |
-| Ascendant Harmony       | Purifications & Exaltations   | 10 sky            |               |                | Organ               |
-| Curious Hunch           | The Great Signs/Scars         | 10 knock          | Memory        | [[*Memory Table][Memory]]         | Necropsy Table      |
+|-------------------------+-------------------------------+-------------------+---------------+----------------+---------------------|
+| Ascendant Harmony       | Purifications & Exaltations   | 10 sky            | Instrument    | [[*Memory Table][Memory]]         | Organ               |
+| Curious Hunch           | The Great Signs/Scars         | 10 knock          | Memory        | [[*Memory Table][Memory]]         | Dispensary Table    |
 | Enduring Reflection     | Path & Pilgrim                | 10 rose           | Memory        | [[*Memory Table][Memory]]         | Grand Piano         |
+|                         |                               |                   |               |                |                     |
 | /Iotic/ Essence           | Anbary & Lapidary             | 10 forge          | Liquid        | [[*Pigments][Pigment]], [[*Fuels][Fuel]]  | Alchemy Table       |
+| /Iotic/ Essence           | Transformations & Liberatiosn | 10 forge          | Liquid        | [[*Pigments][Pigment]], [[*Fuels][Fuel]]  | Forge               |
+|                         |                               |                   |               |                |                     |
 | Nameday Riddle          | Sacra Limiae                  | 10 moth           | Memory        | [[*Memory Table][Memory]]         |                     |
 | Pale Mommet             | Resurgences & Emergences      | 10 grail          | Fabric        | [[*Tools][Tool]]           |                     |
+|                         |                               |                   |               |                |                     |
 | Pyrus Auricalcinus      | Spices & Savours              | 10 nectar         | Wood          | [[*Plants][Plant]]          |                     |
+| Pyrus Auricalcinus      | Desires & Dissolutions        | 10 moon           | Wood          | [[*Plants][Plant]]          |                     |
+|                         |                               |                   |               |                |                     |
+| Rubywise Ruin           | Desires & Dissolutions        | 10 grail          | Flower        | [[*Beverages & Edibles][Beverage]]       | Alchemy Table       |
+| Thunderskin's Paean     | Drums & Dances                | 10 heart          | Instrument    |                | Musical             |
 | Winning Move            | Auroral Contemplations        | 10 edge           | Memory        |                | Forge               |
-| ?                       | Desires & Dissolutions        | 10 grail          | Flower        |                |                     |
-| ?                       | Desires & Dissolutions        | 10 moon           | Wood          | Fruit?         |                     |
 | ?                       | Disciplines of the Scar       | 10 edge           | Leaf          | Ink?           |                     |
-| ?                       | Drums & Dances                | 10 heart          | ?             |                | Musical             |
 | ?                       | Glasiary & Lightsmithing      | 10 lantern        | Glass         |                |                     |
 | ?                       | Sights & Sensations           | 10 winter         | Flower        | Beverage?      |                     |
 | ?                       | Snow Stories                  | 10 winter         | Remains       | Chilling?      |                     |
@@ -1209,7 +1251,8 @@ See the subsection [[*Craftable Items Tables][Craftable Items Tables]] for detai
 | ?                       | Preliminal Meter              | 10 knock          | Memory        | Knock-insight? |                     |
 | ?                       | Surgeries & Exsanguinations   | 10 knock          | Liquid        | Knock-toxin?   | Forge               |
 | ?                       | Resurgences & Emergences      | 10 moth           | Egg           | Eyeless?       | d                   |
-|                         |                               |                   |               |                |                     |
+| ?                       | Applebright Euphonies         | 10 grail          | Flower        |                |                     |
+| ?                       | Serpents & Venoms             | 10 moon           | Egg           | Silver Pet     | Cage                |
 | /Orpiment Exultant/       | Anbary & Lapidary             | 15 forge          | Iotic Essence | [[*Inks][Ink]]            | Alchemy Table       |
 |                         |                               |                   |               |                |                     |
 | Determination (Journal) |                               | 20 ?              |               |                |                     |
@@ -1221,19 +1264,20 @@ Sometimes these are found in the house, more often they're purchased or crafted
 
 *** Beverages & Edibles
 
-|-------------------+------------------------------------+----------+-------+-----|
-| Name              | Principles                         | Type     | Craft | Buy |
-|-------------------+------------------------------------+----------+-------+-----|
-| Dawn Coffee       | 1 nectar                           | Food     |       | X   |
-| Pillas-Oat Bread  | 1 nectar, 1 rose, 1 heart, 1 forge | Food     |       | X   |
-| Isle-Water        | 1 heart, 1 moon, 1 winter          | Beverage | X     |     |
-| Witching Tisane   | 2 grail, 1 heart                   | Beverage | X     |     |
-| Thirza's Cordials | 2 moth, 2 nectar                   | Beverage | X     |     |
-| Eigengrau         | 1 winter, 1 moon                   | Beverage | X     |     |
-|-------------------+------------------------------------+----------+-------+-----|
+|-------------------+--------------------------------------------+----------+-------+-----|
+| Name              | Principles                                 | Type     | Craft | Buy |
+|-------------------+--------------------------------------------+----------+-------+-----|
+| Dawn Coffee       | 1 nectar                                   | Food     |       | X   |
+| Pillas-Oat Bread  | 1 nectar, 1 rose, 1 heart, 1 forge         | Food     |       | X   |
+| Isle-Water        | 1 heart, 1 moon, 1 winter                  | Beverage | X     |     |
+| Witching Tisane   | 2 grail, 1 heart                           | Beverage | X     |     |
+| Thirza's Cordials | 2 moth, 2 nectar                           | Beverage | X     |     |
+| Eigengrau         | 1 winter, 1 moon                           | Beverage | X     |     |
+| Rubywise Ruin     | 4 grail, 2 heart, 2 moth, 2 nectar, 2 rose | Beverage | X     |     |
+|-------------------+--------------------------------------------+----------+-------+-----|
 
 *** Fuels
-s
+
 |---------------+--------------------+-------+-----|
 | Name          | Principles         | Craft | Buy |
 |---------------+--------------------+-------+-----|
@@ -1286,14 +1330,14 @@ Items that don't seem to fall into frequency categories.
 |---------------------+-----------------------------------------------+---------------+-------+-----|
 | Name                | Principles                                    |               | Craft | Buy |
 |---------------------+-----------------------------------------------+---------------+-------+-----|
-| Westcott's Compunds | 2 forge, 1 grail, 1 lantern, 1 moth, 1 nectar |               | X     |     |
-| Dearday Lens        | 2 lantern, 2 sky                              | Glass         | X     |     |
-| Tanglebrag          | 2 moth, 1 lantern, 1 nectar, 1 scale          |               | X     |     |
-| Granite Slab        | 1 forge, 1 scale                              | Stone         |       |     |
-| Atlantic Amber      | 3 lantern                                     | Gem           |       |     |
-| Regensburg Balm     | 2 heart, 2 nectar                             | Liquid        | X     |     |
-| Labhitic Tincture   | 2 edge, 1 lantern                             |               |       |     |
 | Amethyst Ampoule    | 2 heart, 2 knock                              | Glass, Liquid | X     |     |
+| Atlantic Amber      | 3 lantern                                     | Gem           |       |     |
+| Dearday Lens        | 2 lantern, 2 sky                              | Glass         | X     |     |
+| Granite Slab        | 1 forge, 1 scale                              | Stone         |       |     |
+| Labhitic Tincture   | 2 edge, 1 lantern                             |               |       |     |
+| Regensburg Balm     | 2 heart, 2 nectar                             | Liquid        | X     |     |
+| Tanglebrag          | 2 moth, 1 lantern, 1 nectar, 1 scale          |               | X     |     |
+| Westcott's Compunds | 2 forge, 1 grail, 1 lantern, 1 moth, 1 nectar |               | X     |     |
 |---------------------+-----------------------------------------------+---------------+-------+-----|
 
 ** Miscellaneous Items
@@ -1373,6 +1417,10 @@ tedious.
 | Expansive Chair          | 1 grail, 1 moon   |      | Touch  | No         |
 | Umbrella Stand           | 1 heart, 1 sky    |      | Touch  | No         |
 | Shaving Mirror           | 1 lantern, 1 moth |      | Sight  | No         |
-
+|                          |                   |      |        |            |
 |--------------------------+-------------------+------+--------+------------|
 
+* Miscellaneous Current Notes
+
+- With Keeper-level Grail, Rubywise Ruin is a precursor to the Sacrament Calicite
+- To prepare Curious Hunch, make Ampule one day, then use it at the Dispensary with a knock memory like Pattern.
